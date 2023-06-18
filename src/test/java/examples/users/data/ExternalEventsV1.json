@@ -1,0 +1,776 @@
+{
+  "limit": 10,
+  "skip": 0,
+  "rows": [
+    {
+      "fleetId": "lmfleet001-Pushkar",
+      "driverId": "pushkar001",
+      "driverName": "Pushkar",
+      "tripId": "trip_master_2023_05_07_10_49_31_545_8B2966E8CF01A20FE50AEF4F191CEC3E29DCD658_1rzX7",
+      "eventType": "Custom-Triggered",
+      "timestamp": "2023-05-07T16:45:27.545Z",
+      "timestampUTC": "2023-05-07T11:15:27.545Z",
+      "longitude": 77.75234145,
+      "latitude": 12.98353037,
+      "bearing": 0,
+      "speed": 0,
+      "accuracy": 3.216,
+      "eventIndex": 24,
+      "timeZoneId": "Asia/Kolkata",
+      "mediaFiles": [
+        {
+          "mediaFileIndex": 0,
+          "mediaFile": "https://customereventvideoire.s3.eu-west-1.amazonaws.com/lmfleet001-Pushkar/pushkar001/2023-05-07/eventImage_external_capture_trip_master_2023_05_07_10_49_31_545_8B2966E8CF01A20FE50AEF4F191CEC3E29DCD658_1rzX7_8_1683458127545.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230518%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T053758Z&X-Amz-Expires=604800&X-Amz-Signature=54f56f7d866ab9b624ec11cbe9a0a7c86c4a93518364a87540f18c42772da921&X-Amz-SignedHeaders=host",
+          "mediaType": "IMAGE",
+          "source": "ROAD_FACING",
+          "imageDetails": {
+            "imageWidth": 1280,
+            "imageHeight": 720,
+            "includesPII": false,
+            "imageQuality": 10,
+            "imageType": "road",
+            "imagePiPType": "road"
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2023-05-07T11:15:32.534Z"
+          }
+        },
+        {
+          "mediaFileIndex": 1,
+          "mediaFile": "https://customereventvideoire.s3.eu-west-1.amazonaws.com/lmfleet001-Pushkar/pushkar001/2023-05-07/eventImage_external_capture_trip_master_2023_05_07_10_49_31_545_8B2966E8CF01A20FE50AEF4F191CEC3E29DCD658_1rzX7_8_1683458127545_secondary.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230518%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T053758Z&X-Amz-Expires=604800&X-Amz-Signature=885a7720d25a4bba609eaa2f8ac5378ace4dd6264ec18bd0fe7c814d9cda0567&X-Amz-SignedHeaders=host",
+          "mediaType": "IMAGE",
+          "source": "DRIVER_FACING",
+          "imageDetails": {
+            "imageWidth": 640,
+            "imageHeight": 360,
+            "includesPII": true,
+            "imageQuality": 10,
+            "imageType": "driver",
+            "imagePiPType": "road"
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2023-05-07T11:15:31.654Z"
+          }
+        }
+      ],
+      "device": {
+        "deviceId": "864281042307489"
+      },
+      "asset": {
+        "assetId": "864281042307489-4"
+      },
+      "eventVideoFile": "https://customereventvideoire.s3.eu-west-1.amazonaws.com/lmfleet001-Pushkar/pushkar001/2023-05-07/eventImage_external_capture_trip_master_2023_05_07_10_49_31_545_8B2966E8CF01A20FE50AEF4F191CEC3E29DCD658_1rzX7_8_1683458127545.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230518%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T053758Z&X-Amz-Expires=604800&X-Amz-Signature=54f56f7d866ab9b624ec11cbe9a0a7c86c4a93518364a87540f18c42772da921&X-Amz-SignedHeaders=host",
+      "imageDetails": {
+        "imageWidth": 1280,
+        "imageHeight": 720,
+        "includesPII": false,
+        "imageQuality": 10,
+        "imageType": "road",
+        "imagePiPType": "road"
+      },
+      "eventVideoFilenameUploadStatus": {
+        "status": "UPLOADED",
+        "uploadTimestamp": "2023-05-07T11:15:32.534Z"
+      },
+      "accProfileUploaded": false
+    },
+    {
+      "fleetId": "lmfleet001-Pushkar",
+      "driverId": "pushkar001",
+      "driverName": "Pushkar",
+      "tripId": "trip_master_2023_05_07_10_49_31_545_8B2966E8CF01A20FE50AEF4F191CEC3E29DCD658_1rzX7",
+      "eventType": "Custom-Triggered",
+      "timestamp": "2023-05-07T16:45:27.481Z",
+      "timestampUTC": "2023-05-07T11:15:27.481Z",
+      "longitude": 77.75234145,
+      "latitude": 12.98353037,
+      "bearing": 0,
+      "speed": 0,
+      "accuracy": 3.216,
+      "eventIndex": 23,
+      "timeZoneId": "Asia/Kolkata",
+      "mediaFiles": [
+        {
+          "mediaFileIndex": 0,
+          "mediaFile": "https://customereventvideoire.s3.eu-west-1.amazonaws.com/lmfleet001-Pushkar/pushkar001/2023-05-07/eventVideo_external_capture_dvr_trip_master_2023_05_07_10_49_31_545_8B2966E8CF01A20FE50AEF4F191CEC3E29DCD658_1rzX7_2_2023_05_07_11_15_27_386_JTccdK3uq9primary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230518%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T053758Z&X-Amz-Expires=604800&X-Amz-Signature=95c10cbb1380032df7742abbcf876f9507941b43293ee4ab316382cd20b5ad14&X-Amz-SignedHeaders=host",
+          "mediaType": "VIDEO",
+          "source": "ROAD_FACING",
+          "videoDetails": {
+            "videoWidth": 1280,
+            "videoHeight": 720,
+            "videoBitrate": 2500000,
+            "videoQuality": 10,
+            "videoType": "road",
+            "videoPiPType": "road",
+            "codec_type": "h264",
+            "audioEnabled": false
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2023-05-07T11:17:54.120Z"
+          }
+        },
+        {
+          "mediaFileIndex": 1,
+          "mediaFile": "https://customereventvideoire.s3.eu-west-1.amazonaws.com/lmfleet001-Pushkar/pushkar001/2023-05-07/eventVideo_external_capture_dvr_trip_master_2023_05_07_10_49_31_545_8B2966E8CF01A20FE50AEF4F191CEC3E29DCD658_1rzX7_2_2023_05_07_11_15_27_386_JTccdK3uq9secondary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230518%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T053758Z&X-Amz-Expires=604800&X-Amz-Signature=5b6cadb5d97dc63efd2f2ab941a97d23935f548153a508f14ba46ba86bf3047f&X-Amz-SignedHeaders=host",
+          "mediaType": "VIDEO",
+          "source": "DRIVER_FACING",
+          "videoDetails": {
+            "videoWidth": 1280,
+            "videoHeight": 720,
+            "videoBitrate": 2500000,
+            "videoQuality": 10,
+            "videoType": "driver",
+            "videoPiPType": "road",
+            "codec_type": "h264",
+            "audioEnabled": false
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2023-05-07T11:18:07.277Z"
+          }
+        }
+      ],
+      "device": {
+        "deviceId": "864281042307489"
+      },
+      "asset": {
+        "assetId": "864281042307489-4"
+      },
+      "eventVideoFile": "https://customereventvideoire.s3.eu-west-1.amazonaws.com/lmfleet001-Pushkar/pushkar001/2023-05-07/eventVideo_external_capture_dvr_trip_master_2023_05_07_10_49_31_545_8B2966E8CF01A20FE50AEF4F191CEC3E29DCD658_1rzX7_2_2023_05_07_11_15_27_386_JTccdK3uq9primary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230518%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T053758Z&X-Amz-Expires=604800&X-Amz-Signature=95c10cbb1380032df7742abbcf876f9507941b43293ee4ab316382cd20b5ad14&X-Amz-SignedHeaders=host",
+      "videoDetails": {
+        "videoWidth": 1280,
+        "videoHeight": 720,
+        "videoBitrate": 2500000,
+        "videoQuality": 10,
+        "videoType": "road",
+        "videoPiPType": "road",
+        "codec_type": "h264",
+        "audioEnabled": false
+      },
+      "eventVideoFilenameUploadStatus": {
+        "status": "UPLOADED",
+        "uploadTimestamp": "2023-05-07T11:17:54.120Z"
+      },
+      "accProfileUploaded": true
+    },
+    {
+      "fleetId": "lmfleet001-Pushkar",
+      "driverId": "pushkar001",
+      "driverName": "Pushkar",
+      "tripId": "trip_master_2023_04_27_07_33_46_819_8B2966E8CF01A20FE50AEF4F191CEC3E29DCD658_jrYHa",
+      "eventType": "Custom-Triggered",
+      "timestamp": "2023-04-27T16:56:38.393Z",
+      "timestampUTC": "2023-04-27T11:26:38.393Z",
+      "longitude": 0,
+      "latitude": 0,
+      "bearing": 0,
+      "speed": -1,
+      "accuracy": 0,
+      "eventIndex": 66,
+      "timeZoneId": "Asia/Kolkata",
+      "mediaFiles": [
+        {
+          "mediaFileIndex": 0,
+          "mediaFile": "https://customereventvideoire.s3.eu-west-1.amazonaws.com/lmfleet001-Pushkar/pushkar001/2023-04-27/eventImage_external_capture_trip_master_2023_04_27_07_33_46_819_8B2966E8CF01A20FE50AEF4F191CEC3E29DCD658_jrYHa_49_1682594798393.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230518%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T053758Z&X-Amz-Expires=604800&X-Amz-Signature=259a98ffe2c1274686fd70c3d4a9e8bc30b1740730a2341338d601c895adc167&X-Amz-SignedHeaders=host",
+          "mediaType": "IMAGE",
+          "source": "ROAD_FACING",
+          "imageDetails": {
+            "imageWidth": 1280,
+            "imageHeight": 720,
+            "includesPII": false,
+            "imageQuality": 10,
+            "imageType": "road",
+            "imagePiPType": "road"
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2023-04-27T11:27:03.830Z"
+          }
+        },
+        {
+          "mediaFileIndex": 1,
+          "mediaFile": "https://customereventvideoire.s3.eu-west-1.amazonaws.com/lmfleet001-Pushkar/pushkar001/2023-04-27/eventImage_external_capture_trip_master_2023_04_27_07_33_46_819_8B2966E8CF01A20FE50AEF4F191CEC3E29DCD658_jrYHa_49_1682594798393_secondary.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230518%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T053758Z&X-Amz-Expires=604800&X-Amz-Signature=59701248c6055da47f1394e96cf49c6a30a17fadcb47a9f21b8e71889eda4739&X-Amz-SignedHeaders=host",
+          "mediaType": "IMAGE",
+          "source": "DRIVER_FACING",
+          "imageDetails": {
+            "imageWidth": 640,
+            "imageHeight": 360,
+            "includesPII": true,
+            "imageQuality": 10,
+            "imageType": "driver",
+            "imagePiPType": "road"
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2023-04-27T11:27:03.617Z"
+          }
+        }
+      ],
+      "device": {
+        "deviceId": "864281042307489"
+      },
+      "asset": {
+        "assetId": "864281042307489-4"
+      },
+      "eventVideoFile": "https://customereventvideoire.s3.eu-west-1.amazonaws.com/lmfleet001-Pushkar/pushkar001/2023-04-27/eventImage_external_capture_trip_master_2023_04_27_07_33_46_819_8B2966E8CF01A20FE50AEF4F191CEC3E29DCD658_jrYHa_49_1682594798393.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230518%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T053758Z&X-Amz-Expires=604800&X-Amz-Signature=259a98ffe2c1274686fd70c3d4a9e8bc30b1740730a2341338d601c895adc167&X-Amz-SignedHeaders=host",
+      "imageDetails": {
+        "imageWidth": 1280,
+        "imageHeight": 720,
+        "includesPII": false,
+        "imageQuality": 10,
+        "imageType": "road",
+        "imagePiPType": "road"
+      },
+      "eventVideoFilenameUploadStatus": {
+        "status": "UPLOADED",
+        "uploadTimestamp": "2023-04-27T11:27:03.830Z"
+      },
+      "accProfileUploaded": false
+    },
+    {
+      "fleetId": "lmfleet001-Pushkar",
+      "driverId": "pushkar001",
+      "driverName": "Pushkar",
+      "tripId": "trip_master_2023_04_27_07_33_46_819_8B2966E8CF01A20FE50AEF4F191CEC3E29DCD658_jrYHa",
+      "eventType": "Custom-Triggered",
+      "timestamp": "2023-04-27T16:56:38.347Z",
+      "timestampUTC": "2023-04-27T11:26:38.347Z",
+      "longitude": 0,
+      "latitude": 0,
+      "bearing": 0,
+      "speed": -1,
+      "accuracy": 0,
+      "eventIndex": 65,
+      "timeZoneId": "Asia/Kolkata",
+      "mediaFiles": [
+        {
+          "mediaFileIndex": 0,
+          "mediaFile": "https://customereventvideoire.s3.eu-west-1.amazonaws.com/lmfleet001-Pushkar/pushkar001/2023-04-27/eventVideo_external_capture_dvr_trip_master_2023_04_27_07_33_46_819_8B2966E8CF01A20FE50AEF4F191CEC3E29DCD658_jrYHa_3_2023_04_27_11_26_38_226_zva3swuJpiprimary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230518%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T053758Z&X-Amz-Expires=604800&X-Amz-Signature=b77eecf4e643cae8962a17d3d36b3743d2858fc180859a28b51371b05f8d6563&X-Amz-SignedHeaders=host",
+          "mediaType": "VIDEO",
+          "source": "ROAD_FACING",
+          "videoDetails": {
+            "videoWidth": 1280,
+            "videoHeight": 720,
+            "videoBitrate": 2500000,
+            "videoQuality": 10,
+            "videoType": "road",
+            "videoPiPType": "road",
+            "codec_type": "h264",
+            "audioEnabled": false
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2023-04-27T11:34:34.377Z"
+          }
+        },
+        {
+          "mediaFileIndex": 1,
+          "mediaFile": "https://customereventvideoire.s3.eu-west-1.amazonaws.com/lmfleet001-Pushkar/pushkar001/2023-04-27/eventVideo_external_capture_dvr_trip_master_2023_04_27_07_33_46_819_8B2966E8CF01A20FE50AEF4F191CEC3E29DCD658_jrYHa_3_2023_04_27_11_26_38_226_zva3swuJpisecondary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230518%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T053758Z&X-Amz-Expires=604800&X-Amz-Signature=bfc8605e59319817245b2198187405676e5191bddbc3513aa5b01120b76e5014&X-Amz-SignedHeaders=host",
+          "mediaType": "VIDEO",
+          "source": "DRIVER_FACING",
+          "videoDetails": {
+            "videoWidth": 1280,
+            "videoHeight": 720,
+            "videoBitrate": 2500000,
+            "videoQuality": 10,
+            "videoType": "driver",
+            "videoPiPType": "road",
+            "codec_type": "h264",
+            "audioEnabled": false
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2023-04-27T11:34:55.553Z"
+          }
+        }
+      ],
+      "device": {
+        "deviceId": "864281042307489"
+      },
+      "asset": {
+        "assetId": "864281042307489-4"
+      },
+      "eventVideoFile": "https://customereventvideoire.s3.eu-west-1.amazonaws.com/lmfleet001-Pushkar/pushkar001/2023-04-27/eventVideo_external_capture_dvr_trip_master_2023_04_27_07_33_46_819_8B2966E8CF01A20FE50AEF4F191CEC3E29DCD658_jrYHa_3_2023_04_27_11_26_38_226_zva3swuJpiprimary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230518%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T053758Z&X-Amz-Expires=604800&X-Amz-Signature=b77eecf4e643cae8962a17d3d36b3743d2858fc180859a28b51371b05f8d6563&X-Amz-SignedHeaders=host",
+      "videoDetails": {
+        "videoWidth": 1280,
+        "videoHeight": 720,
+        "videoBitrate": 2500000,
+        "videoQuality": 10,
+        "videoType": "road",
+        "videoPiPType": "road",
+        "codec_type": "h264",
+        "audioEnabled": false
+      },
+      "eventVideoFilenameUploadStatus": {
+        "status": "UPLOADED",
+        "uploadTimestamp": "2023-04-27T11:34:34.377Z"
+      },
+      "accProfileUploaded": true
+    },
+    {
+      "fleetId": "lmfleet001-Pushkar",
+      "driverId": "pushkar001",
+      "driverName": "Pushkar",
+      "tripId": "trip_master_2023_04_27_07_33_46_819_8B2966E8CF01A20FE50AEF4F191CEC3E29DCD658_jrYHa",
+      "eventType": "Custom-Triggered",
+      "timestamp": "2023-04-27T16:55:23.474Z",
+      "timestampUTC": "2023-04-27T11:25:23.474Z",
+      "longitude": 0,
+      "latitude": 0,
+      "bearing": 0,
+      "speed": -1,
+      "accuracy": 0,
+      "eventIndex": 63,
+      "timeZoneId": "Asia/Kolkata",
+      "mediaFiles": [
+        {
+          "mediaFileIndex": 0,
+          "mediaFile": "https://customereventvideoire.s3.eu-west-1.amazonaws.com/lmfleet001-Pushkar/pushkar001/2023-04-27/eventImage_external_capture_trip_master_2023_04_27_07_33_46_819_8B2966E8CF01A20FE50AEF4F191CEC3E29DCD658_jrYHa_48_1682594723474.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230518%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T053758Z&X-Amz-Expires=604800&X-Amz-Signature=6f08a5669b4e55720d06dd396e0b44904c6b378c9cdee3561c8d56bbac4def99&X-Amz-SignedHeaders=host",
+          "mediaType": "IMAGE",
+          "source": "ROAD_FACING",
+          "imageDetails": {
+            "imageWidth": 1280,
+            "imageHeight": 720,
+            "includesPII": false,
+            "imageQuality": 10,
+            "imageType": "road",
+            "imagePiPType": "road"
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2023-04-27T11:25:26.137Z"
+          }
+        },
+        {
+          "mediaFileIndex": 1,
+          "mediaFile": "https://customereventvideoire.s3.eu-west-1.amazonaws.com/lmfleet001-Pushkar/pushkar001/2023-04-27/eventImage_external_capture_trip_master_2023_04_27_07_33_46_819_8B2966E8CF01A20FE50AEF4F191CEC3E29DCD658_jrYHa_48_1682594723474_secondary.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230518%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T053758Z&X-Amz-Expires=604800&X-Amz-Signature=2bb7880e297c38a99e886dd68c807d77d18a88dbe01550b834381c8736540603&X-Amz-SignedHeaders=host",
+          "mediaType": "IMAGE",
+          "source": "DRIVER_FACING",
+          "imageDetails": {
+            "imageWidth": 640,
+            "imageHeight": 360,
+            "includesPII": true,
+            "imageQuality": 10,
+            "imageType": "driver",
+            "imagePiPType": "road"
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2023-04-27T11:25:25.929Z"
+          }
+        }
+      ],
+      "device": {
+        "deviceId": "864281042307489"
+      },
+      "asset": {
+        "assetId": "864281042307489-4"
+      },
+      "eventVideoFile": "https://customereventvideoire.s3.eu-west-1.amazonaws.com/lmfleet001-Pushkar/pushkar001/2023-04-27/eventImage_external_capture_trip_master_2023_04_27_07_33_46_819_8B2966E8CF01A20FE50AEF4F191CEC3E29DCD658_jrYHa_48_1682594723474.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230518%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T053758Z&X-Amz-Expires=604800&X-Amz-Signature=6f08a5669b4e55720d06dd396e0b44904c6b378c9cdee3561c8d56bbac4def99&X-Amz-SignedHeaders=host",
+      "imageDetails": {
+        "imageWidth": 1280,
+        "imageHeight": 720,
+        "includesPII": false,
+        "imageQuality": 10,
+        "imageType": "road",
+        "imagePiPType": "road"
+      },
+      "eventVideoFilenameUploadStatus": {
+        "status": "UPLOADED",
+        "uploadTimestamp": "2023-04-27T11:25:26.137Z"
+      },
+      "accProfileUploaded": false
+    },
+    {
+      "fleetId": "lmfleet001-Pushkar",
+      "driverId": "pushkar001",
+      "driverName": "Pushkar",
+      "tripId": "trip_master_2023_04_27_07_33_46_819_8B2966E8CF01A20FE50AEF4F191CEC3E29DCD658_jrYHa",
+      "eventType": "Custom-Triggered",
+      "timestamp": "2023-04-27T16:55:23.409Z",
+      "timestampUTC": "2023-04-27T11:25:23.409Z",
+      "longitude": 0,
+      "latitude": 0,
+      "bearing": 0,
+      "speed": -1,
+      "accuracy": 0,
+      "eventIndex": 62,
+      "timeZoneId": "Asia/Kolkata",
+      "mediaFiles": [
+        {
+          "mediaFileIndex": 0,
+          "mediaFile": "https://customereventvideoire.s3.eu-west-1.amazonaws.com/lmfleet001-Pushkar/pushkar001/2023-04-27/eventVideo_external_capture_dvr_trip_master_2023_04_27_07_33_46_819_8B2966E8CF01A20FE50AEF4F191CEC3E29DCD658_jrYHa_2_2023_04_27_11_25_23_290_gbifQVhYwSprimary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230518%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T053758Z&X-Amz-Expires=604800&X-Amz-Signature=b4820462ba8deed67ce950370fb63c7b995c87db9d249fe86939b940cab403cb&X-Amz-SignedHeaders=host",
+          "mediaType": "VIDEO",
+          "source": "ROAD_FACING",
+          "videoDetails": {
+            "videoWidth": 1280,
+            "videoHeight": 720,
+            "videoBitrate": 2500000,
+            "videoQuality": 10,
+            "videoType": "road",
+            "videoPiPType": "road",
+            "codec_type": "h264",
+            "audioEnabled": false
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2023-04-27T11:27:36.176Z"
+          }
+        },
+        {
+          "mediaFileIndex": 1,
+          "mediaFile": "https://customereventvideoire.s3.eu-west-1.amazonaws.com/lmfleet001-Pushkar/pushkar001/2023-04-27/eventVideo_external_capture_dvr_trip_master_2023_04_27_07_33_46_819_8B2966E8CF01A20FE50AEF4F191CEC3E29DCD658_jrYHa_2_2023_04_27_11_25_23_290_gbifQVhYwSsecondary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230518%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T053758Z&X-Amz-Expires=604800&X-Amz-Signature=35fba1b61857158860b30063be2fbb6ee0e2fc6b393ecccbe5e9500c35cedb29&X-Amz-SignedHeaders=host",
+          "mediaType": "VIDEO",
+          "source": "DRIVER_FACING",
+          "videoDetails": {
+            "videoWidth": 1280,
+            "videoHeight": 720,
+            "videoBitrate": 2500000,
+            "videoQuality": 10,
+            "videoType": "driver",
+            "videoPiPType": "road",
+            "codec_type": "h264",
+            "audioEnabled": false
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2023-04-27T11:34:12.945Z"
+          }
+        }
+      ],
+      "device": {
+        "deviceId": "864281042307489"
+      },
+      "asset": {
+        "assetId": "864281042307489-4"
+      },
+      "eventVideoFile": "https://customereventvideoire.s3.eu-west-1.amazonaws.com/lmfleet001-Pushkar/pushkar001/2023-04-27/eventVideo_external_capture_dvr_trip_master_2023_04_27_07_33_46_819_8B2966E8CF01A20FE50AEF4F191CEC3E29DCD658_jrYHa_2_2023_04_27_11_25_23_290_gbifQVhYwSprimary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230518%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T053758Z&X-Amz-Expires=604800&X-Amz-Signature=b4820462ba8deed67ce950370fb63c7b995c87db9d249fe86939b940cab403cb&X-Amz-SignedHeaders=host",
+      "videoDetails": {
+        "videoWidth": 1280,
+        "videoHeight": 720,
+        "videoBitrate": 2500000,
+        "videoQuality": 10,
+        "videoType": "road",
+        "videoPiPType": "road",
+        "codec_type": "h264",
+        "audioEnabled": false
+      },
+      "eventVideoFilenameUploadStatus": {
+        "status": "UPLOADED",
+        "uploadTimestamp": "2023-04-27T11:27:36.176Z"
+      },
+      "accProfileUploaded": true
+    },
+    {
+      "fleetId": "lmfleet001-Pushkar",
+      "driverId": "pushkar001",
+      "driverName": "Pushkar",
+      "tripId": "trip_master_2023_04_26_11_43_57_918_8B2966E8CF01A20FE50AEF4F191CEC3E29DCD658_Tmg96",
+      "eventType": "Custom-Triggered",
+      "timestamp": "2023-04-26T17:30:24.420Z",
+      "timestampUTC": "2023-04-26T12:00:24.420Z",
+      "longitude": 77.68799522,
+      "latitude": 12.95520321,
+      "bearing": 81.9,
+      "speed": 1.85,
+      "accuracy": 3.216,
+      "eventIndex": 31,
+      "timeZoneId": "Asia/Kolkata",
+      "mediaFiles": [
+        {
+          "mediaFileIndex": 0,
+          "mediaFile": "https://customereventvideoire.s3.eu-west-1.amazonaws.com/lmfleet001-Pushkar/pushkar001/2023-04-26/eventImage_external_capture_trip_master_2023_04_26_11_43_57_918_8B2966E8CF01A20FE50AEF4F191CEC3E29DCD658_Tmg96_12_1682510424420.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230518%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T053758Z&X-Amz-Expires=604800&X-Amz-Signature=ed4e445f75bb5da453404d2ec15b86424b0b0dd77f76eaef6c1b9f80b4816f47&X-Amz-SignedHeaders=host",
+          "mediaType": "IMAGE",
+          "source": "ROAD_FACING",
+          "imageDetails": {
+            "imageWidth": 1280,
+            "imageHeight": 720,
+            "includesPII": false,
+            "imageQuality": 10,
+            "imageType": "road",
+            "imagePiPType": "road"
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2023-04-26T12:00:38.717Z"
+          }
+        },
+        {
+          "mediaFileIndex": 1,
+          "mediaFile": "https://customereventvideoire.s3.eu-west-1.amazonaws.com/lmfleet001-Pushkar/pushkar001/2023-04-26/eventImage_external_capture_trip_master_2023_04_26_11_43_57_918_8B2966E8CF01A20FE50AEF4F191CEC3E29DCD658_Tmg96_12_1682510424420_secondary.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230518%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T053758Z&X-Amz-Expires=604800&X-Amz-Signature=26678372764b00621fb1276a21e1a71553bd09f2048e2b9697d95978568eb161&X-Amz-SignedHeaders=host",
+          "mediaType": "IMAGE",
+          "source": "DRIVER_FACING",
+          "imageDetails": {
+            "imageWidth": 640,
+            "imageHeight": 360,
+            "includesPII": true,
+            "imageQuality": 10,
+            "imageType": "driver",
+            "imagePiPType": "road"
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2023-04-26T12:00:35.360Z"
+          }
+        }
+      ],
+      "device": {
+        "deviceId": "864281042307489"
+      },
+      "asset": {
+        "assetId": "864281042307489-4"
+      },
+      "eventVideoFile": "https://customereventvideoire.s3.eu-west-1.amazonaws.com/lmfleet001-Pushkar/pushkar001/2023-04-26/eventImage_external_capture_trip_master_2023_04_26_11_43_57_918_8B2966E8CF01A20FE50AEF4F191CEC3E29DCD658_Tmg96_12_1682510424420.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230518%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T053758Z&X-Amz-Expires=604800&X-Amz-Signature=ed4e445f75bb5da453404d2ec15b86424b0b0dd77f76eaef6c1b9f80b4816f47&X-Amz-SignedHeaders=host",
+      "imageDetails": {
+        "imageWidth": 1280,
+        "imageHeight": 720,
+        "includesPII": false,
+        "imageQuality": 10,
+        "imageType": "road",
+        "imagePiPType": "road"
+      },
+      "eventVideoFilenameUploadStatus": {
+        "status": "UPLOADED",
+        "uploadTimestamp": "2023-04-26T12:00:38.717Z"
+      },
+      "accProfileUploaded": false
+    },
+    {
+      "fleetId": "lmfleet001-Pushkar",
+      "driverId": "pushkar001",
+      "driverName": "Pushkar",
+      "tripId": "trip_master_2023_04_26_11_43_57_918_8B2966E8CF01A20FE50AEF4F191CEC3E29DCD658_Tmg96",
+      "eventType": "Custom-Triggered",
+      "timestamp": "2023-04-26T17:30:24.400Z",
+      "timestampUTC": "2023-04-26T12:00:24.400Z",
+      "longitude": 77.68799522,
+      "latitude": 12.95520321,
+      "bearing": 81.9,
+      "speed": 1.85,
+      "accuracy": 3.216,
+      "eventIndex": 30,
+      "timeZoneId": "Asia/Kolkata",
+      "mediaFiles": [
+        {
+          "mediaFileIndex": 0,
+          "mediaFile": "https://customereventvideoire.s3.eu-west-1.amazonaws.com/lmfleet001-Pushkar/pushkar001/2023-04-26/eventVideo_external_capture_dvr_trip_master_2023_04_26_11_43_57_918_8B2966E8CF01A20FE50AEF4F191CEC3E29DCD658_Tmg96_4_2023_04_26_12_00_24_272_sANtXwKFcvprimary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230518%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T053758Z&X-Amz-Expires=604800&X-Amz-Signature=c50a3d226b93dd8b60724e964d028c485eb700d466d160c0a5dc87321e1bbf9d&X-Amz-SignedHeaders=host",
+          "mediaType": "VIDEO",
+          "source": "ROAD_FACING",
+          "videoDetails": {
+            "videoWidth": 1280,
+            "videoHeight": 720,
+            "videoBitrate": 2500000,
+            "videoQuality": 10,
+            "videoType": "road",
+            "videoPiPType": "road",
+            "codec_type": "h264",
+            "audioEnabled": false
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2023-04-26T12:03:49.838Z"
+          }
+        },
+        {
+          "mediaFileIndex": 1,
+          "mediaFile": "https://customereventvideoire.s3.eu-west-1.amazonaws.com/lmfleet001-Pushkar/pushkar001/2023-04-26/eventVideo_external_capture_dvr_trip_master_2023_04_26_11_43_57_918_8B2966E8CF01A20FE50AEF4F191CEC3E29DCD658_Tmg96_4_2023_04_26_12_00_24_272_sANtXwKFcvsecondary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230518%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T053758Z&X-Amz-Expires=604800&X-Amz-Signature=48a6f8d7700b2c24f7405acc3665b807fe6327b6b4b83c18dccc31665d37ea49&X-Amz-SignedHeaders=host",
+          "mediaType": "VIDEO",
+          "source": "DRIVER_FACING",
+          "videoDetails": {
+            "videoWidth": 1280,
+            "videoHeight": 720,
+            "videoBitrate": 2500000,
+            "videoQuality": 10,
+            "videoType": "driver",
+            "videoPiPType": "road",
+            "codec_type": "h264",
+            "audioEnabled": false
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2023-04-26T12:04:48.729Z"
+          }
+        }
+      ],
+      "device": {
+        "deviceId": "864281042307489"
+      },
+      "asset": {
+        "assetId": "864281042307489-4"
+      },
+      "eventVideoFile": "https://customereventvideoire.s3.eu-west-1.amazonaws.com/lmfleet001-Pushkar/pushkar001/2023-04-26/eventVideo_external_capture_dvr_trip_master_2023_04_26_11_43_57_918_8B2966E8CF01A20FE50AEF4F191CEC3E29DCD658_Tmg96_4_2023_04_26_12_00_24_272_sANtXwKFcvprimary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230518%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T053758Z&X-Amz-Expires=604800&X-Amz-Signature=c50a3d226b93dd8b60724e964d028c485eb700d466d160c0a5dc87321e1bbf9d&X-Amz-SignedHeaders=host",
+      "videoDetails": {
+        "videoWidth": 1280,
+        "videoHeight": 720,
+        "videoBitrate": 2500000,
+        "videoQuality": 10,
+        "videoType": "road",
+        "videoPiPType": "road",
+        "codec_type": "h264",
+        "audioEnabled": false
+      },
+      "eventVideoFilenameUploadStatus": {
+        "status": "UPLOADED",
+        "uploadTimestamp": "2023-04-26T12:03:49.838Z"
+      },
+      "accProfileUploaded": true
+    },
+    {
+      "fleetId": "lmfleet001-Pushkar",
+      "driverId": "pushkar001",
+      "driverName": "Pushkar",
+      "tripId": "trip_master_2023_04_26_11_43_57_918_8B2966E8CF01A20FE50AEF4F191CEC3E29DCD658_Tmg96",
+      "eventType": "Custom-Triggered",
+      "timestamp": "2023-04-26T17:29:48.240Z",
+      "timestampUTC": "2023-04-26T11:59:48.240Z",
+      "longitude": 77.68549935,
+      "latitude": 12.9548346,
+      "bearing": 84.6,
+      "speed": 13.88,
+      "accuracy": 3.216,
+      "eventIndex": 26,
+      "timeZoneId": "Asia/Kolkata",
+      "mediaFiles": [
+        {
+          "mediaFileIndex": 0,
+          "mediaFile": "https://customereventvideoire.s3.eu-west-1.amazonaws.com/lmfleet001-Pushkar/pushkar001/2023-04-26/eventImage_external_capture_trip_master_2023_04_26_11_43_57_918_8B2966E8CF01A20FE50AEF4F191CEC3E29DCD658_Tmg96_8_1682510388240.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230518%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T053758Z&X-Amz-Expires=604800&X-Amz-Signature=83ee7bf08c3d11c992594a02ab55a79f0bfd889141b90049f95851889887e3fb&X-Amz-SignedHeaders=host",
+          "mediaType": "IMAGE",
+          "source": "ROAD_FACING",
+          "imageDetails": {
+            "imageWidth": 1280,
+            "imageHeight": 720,
+            "includesPII": false,
+            "imageQuality": 10,
+            "imageType": "road",
+            "imagePiPType": "road"
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2023-04-26T11:59:56.215Z"
+          }
+        },
+        {
+          "mediaFileIndex": 1,
+          "mediaFile": "https://customereventvideoire.s3.eu-west-1.amazonaws.com/lmfleet001-Pushkar/pushkar001/2023-04-26/eventImage_external_capture_trip_master_2023_04_26_11_43_57_918_8B2966E8CF01A20FE50AEF4F191CEC3E29DCD658_Tmg96_8_1682510388240_secondary.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230518%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T053758Z&X-Amz-Expires=604800&X-Amz-Signature=d47ace585e8a50c9ef8f9ae7493d3dfc7ea9329b179550c251f508214e92ffd5&X-Amz-SignedHeaders=host",
+          "mediaType": "IMAGE",
+          "source": "DRIVER_FACING",
+          "imageDetails": {
+            "imageWidth": 640,
+            "imageHeight": 360,
+            "includesPII": true,
+            "imageQuality": 10,
+            "imageType": "driver",
+            "imagePiPType": "road"
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2023-04-26T11:59:53.685Z"
+          }
+        }
+      ],
+      "device": {
+        "deviceId": "864281042307489"
+      },
+      "asset": {
+        "assetId": "864281042307489-4"
+      },
+      "eventVideoFile": "https://customereventvideoire.s3.eu-west-1.amazonaws.com/lmfleet001-Pushkar/pushkar001/2023-04-26/eventImage_external_capture_trip_master_2023_04_26_11_43_57_918_8B2966E8CF01A20FE50AEF4F191CEC3E29DCD658_Tmg96_8_1682510388240.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230518%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T053758Z&X-Amz-Expires=604800&X-Amz-Signature=83ee7bf08c3d11c992594a02ab55a79f0bfd889141b90049f95851889887e3fb&X-Amz-SignedHeaders=host",
+      "imageDetails": {
+        "imageWidth": 1280,
+        "imageHeight": 720,
+        "includesPII": false,
+        "imageQuality": 10,
+        "imageType": "road",
+        "imagePiPType": "road"
+      },
+      "eventVideoFilenameUploadStatus": {
+        "status": "UPLOADED",
+        "uploadTimestamp": "2023-04-26T11:59:56.215Z"
+      },
+      "accProfileUploaded": false
+    },
+    {
+      "fleetId": "lmfleet001-Pushkar",
+      "driverId": "pushkar001",
+      "driverName": "Pushkar",
+      "tripId": "trip_master_2023_04_26_11_43_57_918_8B2966E8CF01A20FE50AEF4F191CEC3E29DCD658_Tmg96",
+      "eventType": "Custom-Triggered",
+      "timestamp": "2023-04-26T17:29:48.196Z",
+      "timestampUTC": "2023-04-26T11:59:48.196Z",
+      "longitude": 77.68549935,
+      "latitude": 12.9548346,
+      "bearing": 84.6,
+      "speed": 13.88,
+      "accuracy": 3.216,
+      "eventIndex": 25,
+      "timeZoneId": "Asia/Kolkata",
+      "mediaFiles": [
+        {
+          "mediaFileIndex": 0,
+          "mediaFile": "https://customereventvideoire.s3.eu-west-1.amazonaws.com/lmfleet001-Pushkar/pushkar001/2023-04-26/eventVideo_external_capture_dvr_trip_master_2023_04_26_11_43_57_918_8B2966E8CF01A20FE50AEF4F191CEC3E29DCD658_Tmg96_3_2023_04_26_11_59_48_089_TdwRiZ85gKprimary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230518%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T053758Z&X-Amz-Expires=604800&X-Amz-Signature=9220053b48f0efcdb4ea4188ee41b03eb730a7b514c796ff9d8936cf8f244bcd&X-Amz-SignedHeaders=host",
+          "mediaType": "VIDEO",
+          "source": "ROAD_FACING",
+          "videoDetails": {
+            "videoWidth": 1280,
+            "videoHeight": 720,
+            "videoBitrate": 2500000,
+            "videoQuality": 10,
+            "videoType": "road",
+            "videoPiPType": "road",
+            "codec_type": "h264",
+            "audioEnabled": false
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2023-04-26T12:02:43.701Z"
+          }
+        },
+        {
+          "mediaFileIndex": 1,
+          "mediaFile": "https://customereventvideoire.s3.eu-west-1.amazonaws.com/lmfleet001-Pushkar/pushkar001/2023-04-26/eventVideo_external_capture_dvr_trip_master_2023_04_26_11_43_57_918_8B2966E8CF01A20FE50AEF4F191CEC3E29DCD658_Tmg96_3_2023_04_26_11_59_48_089_TdwRiZ85gKsecondary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230518%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T053758Z&X-Amz-Expires=604800&X-Amz-Signature=d5e8827c473d7ff7933927350d2d3d8fb357c9532d9d9ab47c59a6bcb85cf0e4&X-Amz-SignedHeaders=host",
+          "mediaType": "VIDEO",
+          "source": "DRIVER_FACING",
+          "videoDetails": {
+            "videoWidth": 1280,
+            "videoHeight": 720,
+            "videoBitrate": 2500000,
+            "videoQuality": 10,
+            "videoType": "driver",
+            "videoPiPType": "road",
+            "codec_type": "h264",
+            "audioEnabled": false
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2023-04-26T12:03:29.569Z"
+          }
+        }
+      ],
+      "device": {
+        "deviceId": "864281042307489"
+      },
+      "asset": {
+        "assetId": "864281042307489-4"
+      },
+      "eventVideoFile": "https://customereventvideoire.s3.eu-west-1.amazonaws.com/lmfleet001-Pushkar/pushkar001/2023-04-26/eventVideo_external_capture_dvr_trip_master_2023_04_26_11_43_57_918_8B2966E8CF01A20FE50AEF4F191CEC3E29DCD658_Tmg96_3_2023_04_26_11_59_48_089_TdwRiZ85gKprimary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230518%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T053758Z&X-Amz-Expires=604800&X-Amz-Signature=9220053b48f0efcdb4ea4188ee41b03eb730a7b514c796ff9d8936cf8f244bcd&X-Amz-SignedHeaders=host",
+      "videoDetails": {
+        "videoWidth": 1280,
+        "videoHeight": 720,
+        "videoBitrate": 2500000,
+        "videoQuality": 10,
+        "videoType": "road",
+        "videoPiPType": "road",
+        "codec_type": "h264",
+        "audioEnabled": false
+      },
+      "eventVideoFilenameUploadStatus": {
+        "status": "UPLOADED",
+        "uploadTimestamp": "2023-04-26T12:02:43.701Z"
+      },
+      "accProfileUploaded": true
+    }
+  ]
+}

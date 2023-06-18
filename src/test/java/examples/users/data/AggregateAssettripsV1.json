@@ -1,0 +1,34 @@
+{
+  "limit": 50,
+  "skip": 0,
+  "rows": [
+    {
+      "key": null,
+      "value": {
+        "tripDistance": 376,
+        "tripDuration": 339647,
+        "eventCount": {
+          "total": 134,
+          "Traffic-Speed-Violated": 0,
+          "Cornering": 3,
+          "Traffic-STOP-Sign-Violated": 0,
+          "Harsh-Braking": 1,
+          "Tail-Gating-Detected": 0,
+          "Harsh-Acceleration": 2,
+          "Lane-Drift-Found": 0,
+          "Distracted-Driving": 0,
+          "MaxSpeedExceeded": 128,
+          "Drowsy-Driving-Detected": 0,
+          "Forward-Collision-Warning": 0,
+          "Cellphone-Distracted-Driving": 0,
+          "Smoking-Distracted-Driving": 0,
+          "Drinking-Distracted-Driving": 0,
+          "SeatBelt-Non-Compliance": 0,
+          "Lizard-Eye-Distracted-Driving": 0
+        },
+        "tripCount": 143,
+        "score": 100
+      }
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "deviceOutPinSignal": "HIGH",
+  "deviceOutPinSignalInputTimestamp": "2023-04-20T11:40:14.408Z",
+  "toggleConfiguration": {
+    "speedThreshold": 1
+  }
+}

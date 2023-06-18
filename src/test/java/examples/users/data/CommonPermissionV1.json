@@ -1,0 +1,6 @@
+{
+  "permissions": {
+    "allowPIIProcessing": false,
+    "audioRecording": false
+  }
+}

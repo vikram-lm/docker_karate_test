@@ -1,0 +1,9 @@
+{
+  "total": 11,
+  "countByStatus": {
+    "GREEN": 1,
+    "RED": 0,
+    "AMBER": 1,
+    "INSUFFICIENT_DATA": 9
+  }
+}

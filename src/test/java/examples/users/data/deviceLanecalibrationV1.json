@@ -1,0 +1,13 @@
+{
+  "laneCalibration": {
+    "slopeLeft": 0,
+    "interceptLeft": 0,
+    "slopeRight": 0,
+    "interceptRight": 0,
+    "bonnetY": 0,
+    "frameWidth": 0,
+    "frameHeight": 0,
+    "calibrationMode": "FIXED"
+  },
+  "laneCalibrationInputTimestamp": "2023-02-25T22:59:46.925Z"
+}

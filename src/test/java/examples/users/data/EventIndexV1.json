@@ -1,0 +1,77 @@
+{
+  "eventType": "Periodic-Image-Capture",
+  "tripId": "trip_master_2023_04_12_14_50_54_692_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_7XL0J",
+  "eventIndex": 175,
+  "longitude": 0,
+  "latitude": 0,
+  "bearing": 0,
+  "accuracy": 0,
+  "speed": -1,
+  "timestampUTC": "2023-04-12T15:22:32.499Z",
+  "timezoneOffset": -330,
+  "timestamp": "2023-04-12T20:52:32.499Z",
+  "fleetId": "qatest001",
+  "driverId": "vikramqa",
+  "driverName": "vikramqa",
+  "timeZoneId": "Asia/Kolkata",
+  "mediaFiles": [
+    {
+      "mediaFileIndex": 0,
+      "mediaFile": "",
+      "source": "ROAD_FACING",
+      "imageDetails": {
+        "imageWidth": 640,
+        "imageHeight": 360,
+        "includesPII": false,
+        "imageQuality": 1,
+        "imageType": "road",
+        "imagePiPType": "road"
+      },
+      "uploadStats": {
+        "status": "UPLOADED",
+        "uploadTimestamp": "2023-04-12T15:36:00.815Z"
+      }
+    },
+    {
+      "mediaFileIndex": 1,
+      "mediaFile": "",
+      "source": "DRIVER_FACING",
+      "imageDetails": {
+        "imageWidth": 640,
+        "imageHeight": 360,
+        "includesPII": true,
+        "imageQuality": 1,
+        "imageType": "driver",
+        "imagePiPType": "road"
+      },
+      "uploadStats": {
+        "status": "UPLOADED",
+        "uploadTimestamp": "2023-04-12T15:36:09.404Z"
+      }
+    }
+  ],
+  "asset": {
+    "assetId": "353436105011125"
+  },
+  "device": {
+    "deviceId": "353436105011125"
+  },
+  "bookmark": false,
+  "coachingCompleted": false,
+  "tags": [
+  ],
+  "eventVideoFile": "",
+  "eventVideoFilename": "",
+  "eventVideoFilenameUploadStatus": {
+    "status": "UPLOADED",
+    "uploadTimestamp": "2023-04-12T15:36:00.815Z"
+  },
+  "imageDetails": {
+    "imageWidth": 640,
+    "imageHeight": 360,
+    "includesPII": false,
+    "imageQuality": 1,
+    "imageType": "road",
+    "imagePiPType": "road"
+  }
+}
