@@ -1,0 +1,747 @@
+{
+  "type": "object",
+  "properties": {
+    "totalCount": {
+      "type": "integer"
+    },
+    "limit": {
+      "type": "integer"
+    },
+    "skip": {
+      "type": "integer"
+    },
+    "rows": {
+      "type": "array",
+      "items": [
+        {
+          "type": "object",
+          "properties": {
+            "fleetId": {
+              "type": "string"
+            },
+            "fleetName": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "fleetId",
+            "fleetName"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "fleetId": {
+              "type": "string"
+            },
+            "fleetName": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "fleetId",
+            "fleetName"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "fleetId": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "fleetId"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "fleetId": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "fleetId"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "fleetId": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "fleetId"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "fleetId": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "fleetId"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "fleetId": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "fleetId"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "fleetId": {
+              "type": "string"
+            },
+            "fleetName": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "fleetId",
+            "fleetName"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "fleetId": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "fleetId"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "fleetId": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "fleetId"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "fleetId": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "fleetId"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "fleetId": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "fleetId"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "fleetId": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "fleetId"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "fleetId": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "fleetId"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "fleetId": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "fleetId"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "fleetId": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "fleetId"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "fleetId": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "fleetId"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "fleetId": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "fleetId"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "fleetId": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "fleetId"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "fleetId": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "fleetId"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "fleetId": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "fleetId"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "fleetId": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "fleetId"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "fleetId": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "fleetId"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "fleetId": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "fleetId"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "fleetId": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "fleetId"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "fleetId": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "fleetId"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "fleetId": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "fleetId"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "fleetId": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "fleetId"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "fleetId": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "fleetId"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "fleetId": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "fleetId"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "fleetId": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "fleetId"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "fleetId": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "fleetId"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "fleetId": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "fleetId"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "fleetId": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "fleetId"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "fleetId": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "fleetId"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "fleetId": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "fleetId"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "fleetId": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "fleetId"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "fleetId": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "fleetId"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "fleetId": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "fleetId"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "fleetId": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "fleetId"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "fleetId": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "fleetId"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "fleetId": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "fleetId"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "fleetId": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "fleetId"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "fleetId": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "fleetId"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "fleetId": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "fleetId"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "fleetId": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "fleetId"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "fleetId": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "fleetId"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "fleetId": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "fleetId"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "fleetId": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "fleetId"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "fleetId": {
+              "type": "string"
+            },
+            "fleetName": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "fleetId",
+            "fleetName"
+          ]
+        }
+      ]
+    },
+    "fleets": {
+      "type": "array",
+      "items": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "string"
+        },
+        {
+          "type": "string"
+        },
+        {
+          "type": "string"
+        },
+        {
+          "type": "string"
+        },
+        {
+          "type": "string"
+        },
+        {
+          "type": "string"
+        },
+        {
+          "type": "string"
+        },
+        {
+          "type": "string"
+        },
+        {
+          "type": "string"
+        },
+        {
+          "type": "string"
+        },
+        {
+          "type": "string"
+        },
+        {
+          "type": "string"
+        },
+        {
+          "type": "string"
+        },
+        {
+          "type": "string"
+        },
+        {
+          "type": "string"
+        },
+        {
+          "type": "string"
+        },
+        {
+          "type": "string"
+        },
+        {
+          "type": "string"
+        },
+        {
+          "type": "string"
+        },
+        {
+          "type": "string"
+        },
+        {
+          "type": "string"
+        },
+        {
+          "type": "string"
+        },
+        {
+          "type": "string"
+        },
+        {
+          "type": "string"
+        },
+        {
+          "type": "string"
+        },
+        {
+          "type": "string"
+        },
+        {
+          "type": "string"
+        },
+        {
+          "type": "string"
+        },
+        {
+          "type": "string"
+        },
+        {
+          "type": "string"
+        },
+        {
+          "type": "string"
+        },
+        {
+          "type": "string"
+        },
+        {
+          "type": "string"
+        },
+        {
+          "type": "string"
+        },
+        {
+          "type": "string"
+        },
+        {
+          "type": "string"
+        },
+        {
+          "type": "string"
+        },
+        {
+          "type": "string"
+        },
+        {
+          "type": "string"
+        },
+        {
+          "type": "string"
+        },
+        {
+          "type": "string"
+        },
+        {
+          "type": "string"
+        },
+        {
+          "type": "string"
+        },
+        {
+          "type": "string"
+        },
+        {
+          "type": "string"
+        },
+        {
+          "type": "string"
+        },
+        {
+          "type": "string"
+        },
+        {
+          "type": "string"
+        },
+        {
+          "type": "string"
+        }
+      ]
+    }
+  },
+  "required": [
+    "totalCount",
+    "limit",
+    "skip",
+    "rows",
+    "fleets"
+  ]
+}

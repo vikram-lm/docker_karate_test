@@ -1,0 +1,13 @@
+{
+  "vendors": [
+    {
+      "vendorId": "micronet_v"
+    },
+    {
+      "vendorId": "mitac_v"
+    },
+    {
+      "vendorId": "jimi_v"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "limit": 50,
+  "skip": 0,
+  "rows": [
+    {
+      "key": null,
+      "value": {
+        "eventCount": {
+          "Cellphone-Distracted-Driving": 0,
+          "Cornering": 3,
+          "Distracted-Driving": 0,
+          "Drinking-Distracted-Driving": 0,
+          "Drowsy-Driving-Detected": 0,
+          "Forward-Collision-Warning": 0,
+          "Harsh-Acceleration": 2,
+          "Harsh-Braking": 1,
+          "Lane-Drift-Found": 0,
+          "Lizard-Eye-Distracted-Driving": 0,
+          "MaxSpeedExceeded": 128,
+          "SeatBelt-Non-Compliance": 0,
+          "Smoking-Distracted-Driving": 0,
+          "Tail-Gating-Detected": 0,
+          "Traffic-STOP-Sign-Violated": 0,
+          "Traffic-Speed-Violated": 0,
+          "total": 134
+        },
+        "tripCount": 143,
+        "tripDistance": 376,
+        "tripDuration": 339647,
+        "score": 100
+      }
+    }
+  ]
+}

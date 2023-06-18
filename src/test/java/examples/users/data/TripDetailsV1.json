@@ -1,0 +1,102 @@
+{
+  "duration": 2018,
+  "tripId": "trip_master_2023_04_12_14_50_54_692_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_7XL0J",
+  "fleetId": "qatest001",
+  "driverId": "vikramqa",
+  "driverName": "vikramqa",
+  "tripDistance": 0,
+  "startTime": "2023-04-12T20:20:54.717Z",
+  "endTime": "2023-04-12T20:54:32.725Z",
+  "startTimeUTC": "2023-04-12T14:50:54.717Z",
+  "endTimeUTC": "2023-04-12T15:24:32.725Z",
+  "timezoneOffset": -330,
+  "eventCount": {
+    "total": 0,
+    "Traffic-Speed-Violated": 0,
+    "Cornering": 0,
+    "Traffic-STOP-Sign-Violated": 0,
+    "Harsh-Braking": 0,
+    "Tail-Gating-Detected": 0,
+    "Harsh-Acceleration": 0,
+    "Lane-Drift-Found": 0,
+    "Distracted-Driving": 0,
+    "MaxSpeedExceeded": 0,
+    "Drowsy-Driving-Detected": 0,
+    "Forward-Collision-Warning": 0,
+    "Cellphone-Distracted-Driving": 0,
+    "Smoking-Distracted-Driving": 0,
+    "Drinking-Distracted-Driving": 0,
+    "SeatBelt-Non-Compliance": 0,
+    "Lizard-Eye-Distracted-Driving": 0
+  },
+  "customEventCount": {
+    "total": 10,
+    "Custom-Triggered": 10
+  },
+  "cameraSerialId": "9319C38F62212DA39393BA457EBC6D8CDC5A7D2E",
+  "asset": {
+    "assetId": "353436105011125",
+    "dutyType": "medium",
+    "cameraType": "RIDECAM_PLUS",
+    "ridecamPlusPlan": "ADVANCED",
+    "plusPackages": [
+      "DVR",
+      "EDVR",
+      "G-sensor",
+      "ADAS",
+      "DMS",
+      "LIVE_STREAMING",
+      "LIVE_TELEMATICS"
+    ],
+    "packages": [
+      "DVR",
+      "EDVR",
+      "G-sensor",
+      "ADAS",
+      "DMS",
+      "LIVE_STREAMING",
+      "LIVE_TELEMATICS"
+    ],
+    "metadata": {
+      "make": "N/A",
+      "addedOn": "February 31 2017"
+    }
+  },
+  "dvrEnabled": true,
+  "ongoing": false,
+  "timeZoneId": "Asia/Kolkata",
+  "device": {
+    "model": "TREQ MSCAM",
+    "deviceId": "353436105011125"
+  },
+  "ignitionId": "ignition_2023_04_12_14_50_53_883_353436105011125_MkET2",
+  "statusUpdateTimestamp": "2023-04-12T15:24:32.725Z",
+  "hasDriverCamera": true,
+  "firstLocation": {
+    "latitude": 0,
+    "longitude": 0,
+    "bearing": 0,
+    "speed": 0,
+    "accuracy": 0
+  },
+  "lastLocation": {
+    "latitude": 0,
+    "longitude": 0,
+    "bearing": 0,
+    "speed": 0,
+    "accuracy": 0
+  },
+  "lastKnownLocation": {
+    "latitude": 0,
+    "longitude": 0,
+    "bearing": 0,
+    "speed": 0,
+    "accuracy": 0
+  },
+  "cameraConnected": true,
+  "localRouteFiles": [],
+  "edvrEnabled": true,
+  "videoCaptureStartTimeUTC": "2023-04-12T14:50:54.717Z",
+  "videoCaptureStartTime": "2023-04-12T20:20:54.717Z",
+  "tripDataUploaded": true
+}

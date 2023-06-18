@@ -1,0 +1,88 @@
+{
+  "rows": [
+    {
+      "trigger": "BAD_CAMERA_MOUNTING",
+      "url": "https://white-qa.lightmetrics.co/webhooks/lm/lightmetrics_qa/event-handler",
+      "createdAt": "2023-04-21T10:03:18.199Z",
+      "updatedAt": "2023-04-21T10:03:18.199Z"
+    },
+    {
+      "trigger": "DEBUG_EVENT_CREATED",
+      "url": "https://white-qa.lightmetrics.co/webhooks/lm/lightmetrics_qa/event-handler",
+      "createdAt": "2023-04-21T10:03:10.994Z",
+      "updatedAt": "2023-04-21T10:03:10.994Z"
+    },
+    {
+      "trigger": "DEBUG_EVENT_VIDEO_UPLOADED",
+      "url": "https://white-qa.lightmetrics.co/webhooks/lm/lightmetrics_qa/event-handler",
+      "createdAt": "2023-04-21T10:03:11.167Z",
+      "updatedAt": "2023-04-21T10:03:11.167Z"
+    },
+    {
+      "trigger": "DVR_EXECUTED",
+      "url": "https://white-qa.lightmetrics.co/webhooks/lm/lightmetrics_qa/event-handler",
+      "createdAt": "2023-04-21T10:03:14.274Z",
+      "updatedAt": "2023-04-21T10:03:14.274Z"
+    },
+    {
+      "trigger": "DVR_UPLOADED",
+      "url": "https://white-qa.lightmetrics.co/webhooks/lm/lightmetrics_qa/event-handler",
+      "createdAt": "2023-04-21T10:03:14.275Z",
+      "updatedAt": "2023-04-21T10:03:14.275Z"
+    },
+    {
+      "trigger": "EVENT_CREATED",
+      "url": "https://white-qa.lightmetrics.co/webhooks/lm/lightmetrics_qa/event-handler",
+      "createdAt": "2023-04-21T10:03:10.468Z",
+      "updatedAt": "2023-04-21T10:03:10.468Z"
+    },
+    {
+      "trigger": "EVENT_DVR_EXECUTED",
+      "url": "https://white-qa.lightmetrics.co/webhooks/lm/lightmetrics_qa/event-handler",
+      "createdAt": "2023-04-21T10:03:13.671Z",
+      "updatedAt": "2023-04-21T10:03:13.671Z"
+    },
+    {
+      "trigger": "EVENT_DVR_UPLOADED",
+      "url": "https://white-qa.lightmetrics.co/webhooks/lm/lightmetrics_qa/event-handler",
+      "createdAt": "2023-04-21T10:03:14.104Z",
+      "updatedAt": "2023-04-21T10:03:14.104Z"
+    },
+    {
+      "trigger": "EVENT_VIDEO_UPLOADED",
+      "url": "https://white-qa.lightmetrics.co/webhooks/lm/lightmetrics_qa/event-handler",
+      "createdAt": "2023-04-21T10:03:10.504Z",
+      "updatedAt": "2023-04-21T10:03:10.504Z"
+    },
+    {
+      "trigger": "IMAGE_UPLOAD_EXECUTED",
+      "url": "https://white-qa.lightmetrics.co/webhooks/lm/lightmetrics_qa/event-handler",
+      "createdAt": "2023-04-21T10:03:17.118Z",
+      "updatedAt": "2023-04-21T10:03:17.118Z"
+    },
+    {
+      "trigger": "LIVESTREAM_STATUS_UPDATE",
+      "url": "https://white-qa.lightmetrics.co/webhooks/lm/lightmetrics_qa/event-handler",
+      "createdAt": "2023-04-21T10:03:17.323Z",
+      "updatedAt": "2023-04-21T10:03:17.323Z"
+    },
+    {
+      "trigger": "TRIP_DATA_UPLOADED",
+      "url": "https://white-qa.lightmetrics.co/webhooks/lm/lightmetrics_qa/event-handler",
+      "createdAt": "2023-04-21T10:03:11.845Z",
+      "updatedAt": "2023-04-21T10:03:11.845Z"
+    },
+    {
+      "trigger": "VEHICLE_IGNITION_OFF",
+      "url": "https://white-qa.lightmetrics.co/webhooks/lm/lightmetrics_qa/event-handler",
+      "createdAt": "2023-04-21T10:03:16.752Z",
+      "updatedAt": "2023-04-21T10:03:16.752Z"
+    },
+    {
+      "trigger": "VEHICLE_IGNITION_ON",
+      "url": "https://white-qa.lightmetrics.co/webhooks/lm/lightmetrics_qa/event-handler",
+      "createdAt": "2023-04-21T10:03:15.126Z",
+      "updatedAt": "2023-04-21T10:03:15.126Z"
+    }
+  ]
+}

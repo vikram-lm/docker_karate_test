@@ -1,0 +1,25 @@
+{
+  "softwareIds": [
+    {
+      "softwareId": "LM_RIDEVIEW"
+    },
+    {
+      "softwareId": "LM_UPDATES_AGENT"
+    },
+    {
+      "softwareId": "FIRMWARE0"
+    },
+    {
+      "softwareId": "FIRMWARE1"
+    },
+    {
+      "softwareId": "FIRMWARE2"
+    },
+    {
+      "softwareId": "LM_MITAC_MODEM_FIRMWARE"
+    },
+    {
+      "softwareId": "FIRMWARE0_1"
+    }
+  ]
+}

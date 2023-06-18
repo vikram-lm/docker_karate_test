@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allowPIIProcessing": true,
+    "audioRecording": false
+  },
+  "lastUpdatedAt": "2023-04-10T14:05:01.740Z"
+}

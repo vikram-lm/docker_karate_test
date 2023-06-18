@@ -1,0 +1,76 @@
+{
+  "limit": 1,
+  "skip": 0,
+  "rows": [
+    {
+      "driverId": "vikramqa",
+      "driverName": "vikramqa",
+      "tripId": "trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L",
+      "eventType": "MaxSpeedExceeded",
+      "timestamp": "2022-11-27T05:49:52.983Z",
+      "timestampUTC": "2022-11-27T00:19:52.983Z",
+      "longitude": 77.47291116,
+      "latitude": 12.90936119,
+      "speed": 14.93,
+      "accuracy": 10.72,
+      "bearing": 246.1,
+      "challengeRaised": false,
+      "challengeResolved": false,
+      "challengeAccepted": false,
+      "eventIndex": 20,
+      "timeZoneId": "Asia/Kolkata",
+      "mediaFiles": [
+        {
+          "mediaFileIndex": 0,
+          "mediaFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-27/eventImage_upper_speed_limit_violation_trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L_7_1669508392611.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T104111Z&X-Amz-Expires=604800&X-Amz-Signature=d6e770bb809ba0035d9162a283ef925e5ab389ba8c43ca3a56b765c68310dad0&X-Amz-SignedHeaders=host",
+          "mediaType": "IMAGE",
+          "source": "SIDE_BY_SIDE",
+          "imageDetails": {
+            "imageWidth": 1280,
+            "imageHeight": 360,
+            "includesPII": true,
+            "imageQuality": 10,
+            "imageType": "sideBySide",
+            "imagePiPType": "road"
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2022-11-27T00:20:51.544Z"
+          }
+        }
+      ],
+      "bookmark": true,
+      "bookmarkedTimestamp": "2022-11-27T08:08:20.395Z",
+      "coachingCompleted": false,
+      "coachingInitiatedMetadata": {
+        "userType": "FLEET_MANAGER",
+        "email": "vRsVxdVNFE/njuHE4hKE5w==:zY6scVIeofCo9AtvIKlL1nLfZwIeTsanPYX+SLPTOnQ=",
+        "name": "Mat0rXpq3gCntSept2TpkQ==:Gx9rHlqTYD9WxUX2bBo14g=="
+      },
+      "severity": 1.8659999,
+      "device": {
+        "deviceId": "353436105011125"
+      },
+      "asset": {
+        "assetId": "353436105011125"
+      },
+      "exceededSpeedingValue": 3,
+      "upperSpeedLimit": 51,
+      "eventVideoFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-27/eventImage_upper_speed_limit_violation_trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L_7_1669508392611.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T104111Z&X-Amz-Expires=604800&X-Amz-Signature=d6e770bb809ba0035d9162a283ef925e5ab389ba8c43ca3a56b765c68310dad0&X-Amz-SignedHeaders=host",
+      "tags": [],
+      "imageDetails": {
+        "imageWidth": 1280,
+        "imageHeight": 360,
+        "includesPII": true,
+        "imageQuality": 10,
+        "imageType": "sideBySide",
+        "imagePiPType": "road"
+      },
+      "eventVideoFilenameUploadStatus": {
+        "status": "UPLOADED",
+        "uploadTimestamp": "2022-11-27T00:20:51.544Z"
+      },
+      "accProfileUploaded": false
+    }
+  ]
+}

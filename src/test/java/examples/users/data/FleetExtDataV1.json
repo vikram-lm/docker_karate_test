@@ -1,0 +1,2858 @@
+{
+  "limit": 50,
+  "skip": 0,
+  "rows": [
+    {
+      "fleetId": "qatest001",
+      "driverId": "_UNASSIGNED",
+      "tripId": "trip_master_2022_11_26_15_42_51_501_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_EVuHg",
+      "eventType": "Custom-Triggered",
+      "timestamp": "2022-11-26T21:20:25.594Z",
+      "timestampUTC": "2022-11-26T15:50:25.594Z",
+      "longitude": 77.48765585,
+      "latitude": 12.91975365,
+      "bearing": 0,
+      "speed": 0,
+      "accuracy": 11.792,
+      "isViewed": true,
+      "eventIndex": 10,
+      "timeZoneId": "Asia/Kolkata",
+      "mediaFiles": [
+        {
+          "mediaFileIndex": 0,
+          "mediaFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/_UNASSIGNED/2022-11-26/eventVideo_external_capture_dvr_trip_master_2022_11_26_15_42_51_501_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_EVuHg_1_2022_11_26_15_50_25_519_IyWeylvxg1primary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=ea0d84cd1c238da6a49790f2f30f130e50377104b4014cef28bcc88d0e4dc68a&X-Amz-SignedHeaders=host",
+          "mediaType": "VIDEO",
+          "source": "SIDE_BY_SIDE",
+          "videoDetails": {
+            "videoWidth": 640,
+            "videoHeight": 360,
+            "videoBitrate": 1000000,
+            "videoQuality": 10,
+            "videoType": "sideBySide",
+            "videoPiPType": "road",
+            "codec_type": "h264",
+            "audioEnabled": false
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2022-11-26T16:08:26.132Z"
+          }
+        }
+      ],
+      "bookmark": false,
+      "tags": [],
+      "comment": "Test Comment.",
+      "commentsV2": [
+        {
+          "userType": "FLEET_MANAGER",
+          "name": "test",
+          "text": "Driver was talking on his cellphone.",
+          "timestamp": "2023-01-25T05:16:39.771Z",
+          "commentId": "1aefa041-6a7f-4277-a44b-6335d861bf0b"
+        },
+        {
+          "userType": "FLEET_MANAGER",
+          "name": "test",
+          "text": "Driver was talking on his cellphone.",
+          "timestamp": "2023-01-25T11:29:55.617Z",
+          "commentId": "8fd845a0-cae4-4f10-ab96-01fdba6f7b82"
+        }
+      ],
+      "device": {
+        "deviceId": "353436105011125"
+      },
+      "asset": {
+        "assetId": "353436105011125"
+      },
+      "eventVideoFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/_UNASSIGNED/2022-11-26/eventVideo_external_capture_dvr_trip_master_2022_11_26_15_42_51_501_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_EVuHg_1_2022_11_26_15_50_25_519_IyWeylvxg1primary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=ea0d84cd1c238da6a49790f2f30f130e50377104b4014cef28bcc88d0e4dc68a&X-Amz-SignedHeaders=host",
+      "videoDetails": {
+        "videoWidth": 640,
+        "videoHeight": 360,
+        "videoBitrate": 1000000,
+        "videoQuality": 10,
+        "videoType": "sideBySide",
+        "videoPiPType": "road",
+        "codec_type": "h264",
+        "audioEnabled": false
+      },
+      "eventVideoFilenameUploadStatus": {
+        "status": "UPLOADED",
+        "uploadTimestamp": "2022-11-26T16:08:26.132Z"
+      },
+      "accProfileUploaded": true
+    },
+    {
+      "fleetId": "qatest001",
+      "driverId": "_UNASSIGNED",
+      "tripId": "trip_master_2022_11_26_15_42_51_501_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_EVuHg",
+      "eventType": "Custom-Triggered",
+      "timestamp": "2022-11-26T21:20:25.978Z",
+      "timestampUTC": "2022-11-26T15:50:25.978Z",
+      "longitude": 77.48765585,
+      "latitude": 12.91975365,
+      "bearing": 0,
+      "speed": 0,
+      "accuracy": 11.792,
+      "eventIndex": 11,
+      "timeZoneId": "Asia/Kolkata",
+      "mediaFiles": [
+        {
+          "mediaFileIndex": 0,
+          "mediaFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/_UNASSIGNED/2022-11-26/eventImage_external_capture_trip_master_2022_11_26_15_42_51_501_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_EVuHg_3_1669477825698.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=a1bde88c7452bcf77be651672a2845a16aa3261131c98477bb05eaebcc3a66b5&X-Amz-SignedHeaders=host",
+          "mediaType": "IMAGE",
+          "source": "SIDE_BY_SIDE",
+          "imageDetails": {
+            "imageWidth": 2560,
+            "imageHeight": 720,
+            "includesPII": true,
+            "imageQuality": 10,
+            "imageType": "sideBySide",
+            "imagePiPType": "road"
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2022-11-26T16:08:34.328Z"
+          }
+        }
+      ],
+      "device": {
+        "deviceId": "353436105011125"
+      },
+      "asset": {
+        "assetId": "353436105011125"
+      },
+      "eventVideoFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/_UNASSIGNED/2022-11-26/eventImage_external_capture_trip_master_2022_11_26_15_42_51_501_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_EVuHg_3_1669477825698.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=a1bde88c7452bcf77be651672a2845a16aa3261131c98477bb05eaebcc3a66b5&X-Amz-SignedHeaders=host",
+      "imageDetails": {
+        "imageWidth": 2560,
+        "imageHeight": 720,
+        "includesPII": true,
+        "imageQuality": 10,
+        "imageType": "sideBySide",
+        "imagePiPType": "road"
+      },
+      "eventVideoFilenameUploadStatus": {
+        "status": "UPLOADED",
+        "uploadTimestamp": "2022-11-26T16:08:34.328Z"
+      },
+      "accProfileUploaded": false
+    },
+    {
+      "fleetId": "qatest001",
+      "driverId": "vikramqa",
+      "driverName": "vikramqa",
+      "tripId": "trip_master_2022_11_26_15_55_05_126_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_NpDbS",
+      "eventType": "Custom-Triggered",
+      "timestamp": "2022-11-26T21:37:22.470Z",
+      "timestampUTC": "2022-11-26T16:07:22.470Z",
+      "longitude": 77.48768541,
+      "latitude": 12.91975675,
+      "bearing": 0,
+      "speed": 0,
+      "accuracy": 197.248,
+      "eventIndex": 12,
+      "timeZoneId": "Asia/Kolkata",
+      "mediaFiles": [
+        {
+          "mediaFileIndex": 0,
+          "mediaFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-26/eventVideo_external_capture_dvr_trip_master_2022_11_26_15_55_05_126_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_NpDbS_2_2022_11_26_16_07_22_391_P92POkFyc8primary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=f4d15474abfb4de0ff2fb4c535a4438dad09220e145ff885327e6f0284c28184&X-Amz-SignedHeaders=host",
+          "mediaType": "VIDEO",
+          "source": "SIDE_BY_SIDE",
+          "videoDetails": {
+            "videoWidth": 640,
+            "videoHeight": 360,
+            "videoBitrate": 1000000,
+            "videoQuality": 10,
+            "videoType": "sideBySide",
+            "videoPiPType": "road",
+            "codec_type": "h264",
+            "audioEnabled": false
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2022-11-26T16:11:35.727Z"
+          }
+        }
+      ],
+      "device": {
+        "deviceId": "353436105011125"
+      },
+      "asset": {
+        "assetId": "353436105011125"
+      },
+      "eventVideoFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-26/eventVideo_external_capture_dvr_trip_master_2022_11_26_15_55_05_126_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_NpDbS_2_2022_11_26_16_07_22_391_P92POkFyc8primary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=f4d15474abfb4de0ff2fb4c535a4438dad09220e145ff885327e6f0284c28184&X-Amz-SignedHeaders=host",
+      "videoDetails": {
+        "videoWidth": 640,
+        "videoHeight": 360,
+        "videoBitrate": 1000000,
+        "videoQuality": 10,
+        "videoType": "sideBySide",
+        "videoPiPType": "road",
+        "codec_type": "h264",
+        "audioEnabled": false
+      },
+      "eventVideoFilenameUploadStatus": {
+        "status": "UPLOADED",
+        "uploadTimestamp": "2022-11-26T16:11:35.727Z"
+      },
+      "accProfileUploaded": true
+    },
+    {
+      "fleetId": "qatest001",
+      "driverId": "vikramqa",
+      "driverName": "vikramqa",
+      "tripId": "trip_master_2022_11_26_15_55_05_126_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_NpDbS",
+      "eventType": "Custom-Triggered",
+      "timestamp": "2022-11-26T21:37:23.140Z",
+      "timestampUTC": "2022-11-26T16:07:23.140Z",
+      "longitude": 0,
+      "latitude": 0,
+      "bearing": 0,
+      "speed": 0,
+      "accuracy": 0,
+      "eventIndex": 13,
+      "timeZoneId": "Asia/Kolkata",
+      "mediaFiles": [
+        {
+          "mediaFileIndex": 0,
+          "mediaFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-26/eventImage_external_capture_trip_master_2022_11_26_15_55_05_126_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_NpDbS_4_1669478842564.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=e3d75d2ba590a648aad3a14c869d88859304e8489f261a1bcbf1dced8c11dc9d&X-Amz-SignedHeaders=host",
+          "mediaType": "IMAGE",
+          "source": "SIDE_BY_SIDE",
+          "imageDetails": {
+            "imageWidth": 2560,
+            "imageHeight": 720,
+            "includesPII": true,
+            "imageQuality": 10,
+            "imageType": "sideBySide",
+            "imagePiPType": "road"
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2022-11-26T16:08:39.871Z"
+          }
+        }
+      ],
+      "device": {
+        "deviceId": "353436105011125"
+      },
+      "asset": {
+        "assetId": "353436105011125"
+      },
+      "eventVideoFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-26/eventImage_external_capture_trip_master_2022_11_26_15_55_05_126_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_NpDbS_4_1669478842564.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=e3d75d2ba590a648aad3a14c869d88859304e8489f261a1bcbf1dced8c11dc9d&X-Amz-SignedHeaders=host",
+      "imageDetails": {
+        "imageWidth": 2560,
+        "imageHeight": 720,
+        "includesPII": true,
+        "imageQuality": 10,
+        "imageType": "sideBySide",
+        "imagePiPType": "road"
+      },
+      "eventVideoFilenameUploadStatus": {
+        "status": "UPLOADED",
+        "uploadTimestamp": "2022-11-26T16:08:39.871Z"
+      },
+      "accProfileUploaded": false
+    },
+    {
+      "fleetId": "qatest001",
+      "driverId": "vikramqa",
+      "driverName": "vikramqa",
+      "tripId": "trip_master_2022_11_26_16_32_48_173_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_2USzQ",
+      "eventType": "Custom-Triggered",
+      "timestamp": "2022-11-26T22:02:57.124Z",
+      "timestampUTC": "2022-11-26T16:32:57.124Z",
+      "longitude": 77.48799334,
+      "latitude": 12.9198111,
+      "bearing": 0,
+      "speed": 0,
+      "accuracy": 142.576,
+      "eventIndex": 6,
+      "timeZoneId": "Asia/Kolkata",
+      "mediaFiles": [
+        {
+          "mediaFileIndex": 0,
+          "mediaFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-26/eventVideo_external_capture_dvr_trip_master_2022_11_26_16_32_48_173_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_2USzQ_1_2022_11_26_16_32_57_069_1RXpIdqOAmprimary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=dcffa19c5c78b626b9f7cc0aa40579a7564ae16d0dbe3f3923a143f19332e754&X-Amz-SignedHeaders=host",
+          "mediaType": "VIDEO",
+          "source": "SIDE_BY_SIDE",
+          "videoDetails": {
+            "videoWidth": 640,
+            "videoHeight": 360,
+            "videoBitrate": 1000000,
+            "videoQuality": 10,
+            "videoType": "sideBySide",
+            "videoPiPType": "road",
+            "codec_type": "h264",
+            "audioEnabled": false
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2022-11-26T16:35:17.778Z"
+          }
+        }
+      ],
+      "device": {
+        "deviceId": "353436105011125"
+      },
+      "asset": {
+        "assetId": "353436105011125"
+      },
+      "eventVideoFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-26/eventVideo_external_capture_dvr_trip_master_2022_11_26_16_32_48_173_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_2USzQ_1_2022_11_26_16_32_57_069_1RXpIdqOAmprimary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=dcffa19c5c78b626b9f7cc0aa40579a7564ae16d0dbe3f3923a143f19332e754&X-Amz-SignedHeaders=host",
+      "videoDetails": {
+        "videoWidth": 640,
+        "videoHeight": 360,
+        "videoBitrate": 1000000,
+        "videoQuality": 10,
+        "videoType": "sideBySide",
+        "videoPiPType": "road",
+        "codec_type": "h264",
+        "audioEnabled": false
+      },
+      "eventVideoFilenameUploadStatus": {
+        "status": "UPLOADED",
+        "uploadTimestamp": "2022-11-26T16:35:17.778Z"
+      },
+      "accProfileUploaded": true
+    },
+    {
+      "fleetId": "qatest001",
+      "driverId": "vikramqa",
+      "driverName": "vikramqa",
+      "tripId": "trip_master_2022_11_26_16_32_48_173_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_2USzQ",
+      "eventType": "Custom-Triggered",
+      "timestamp": "2022-11-26T22:02:57.475Z",
+      "timestampUTC": "2022-11-26T16:32:57.475Z",
+      "longitude": 77.48799334,
+      "latitude": 12.9198111,
+      "bearing": 0,
+      "speed": 0,
+      "accuracy": 142.576,
+      "eventIndex": 7,
+      "timeZoneId": "Asia/Kolkata",
+      "mediaFiles": [
+        {
+          "mediaFileIndex": 0,
+          "mediaFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-26/eventImage_external_capture_trip_master_2022_11_26_16_32_48_173_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_2USzQ_1_1669480377181.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=1ba1c0facbdf0b6150b3e7bba150ccce3bd86163930a0aa11c8cba4cfaf6c2a8&X-Amz-SignedHeaders=host",
+          "mediaType": "IMAGE",
+          "source": "SIDE_BY_SIDE",
+          "imageDetails": {
+            "imageWidth": 2560,
+            "imageHeight": 720,
+            "includesPII": true,
+            "imageQuality": 10,
+            "imageType": "sideBySide",
+            "imagePiPType": "road"
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2022-11-26T16:33:03.635Z"
+          }
+        }
+      ],
+      "device": {
+        "deviceId": "353436105011125"
+      },
+      "asset": {
+        "assetId": "353436105011125"
+      },
+      "eventVideoFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-26/eventImage_external_capture_trip_master_2022_11_26_16_32_48_173_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_2USzQ_1_1669480377181.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=1ba1c0facbdf0b6150b3e7bba150ccce3bd86163930a0aa11c8cba4cfaf6c2a8&X-Amz-SignedHeaders=host",
+      "imageDetails": {
+        "imageWidth": 2560,
+        "imageHeight": 720,
+        "includesPII": true,
+        "imageQuality": 10,
+        "imageType": "sideBySide",
+        "imagePiPType": "road"
+      },
+      "eventVideoFilenameUploadStatus": {
+        "status": "UPLOADED",
+        "uploadTimestamp": "2022-11-26T16:33:03.635Z"
+      },
+      "accProfileUploaded": false
+    },
+    {
+      "fleetId": "qatest001",
+      "driverId": "vikramqa",
+      "driverName": "vikramqa",
+      "tripId": "trip_master_2022_11_26_16_32_48_173_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_2USzQ",
+      "eventType": "Custom-Triggered",
+      "timestamp": "2022-11-26T22:02:57.568Z",
+      "timestampUTC": "2022-11-26T16:32:57.568Z",
+      "longitude": 77.48799394,
+      "latitude": 12.91981613,
+      "bearing": 0,
+      "speed": 0,
+      "accuracy": 146.864,
+      "eventIndex": 8,
+      "timeZoneId": "Asia/Kolkata",
+      "mediaFiles": [
+        {
+          "mediaFileIndex": 0,
+          "mediaFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-26/eventVideo_external_capture_dvr_trip_master_2022_11_26_16_32_48_173_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_2USzQ_2_2022_11_26_16_32_57_528_1XwwpetlIOprimary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=a4074bb6b8736070c20449f17a18ff720938a55f65c1dd444e75c11dd74dac7b&X-Amz-SignedHeaders=host",
+          "mediaType": "VIDEO",
+          "source": "SIDE_BY_SIDE",
+          "videoDetails": {
+            "videoWidth": 640,
+            "videoHeight": 360,
+            "videoBitrate": 1000000,
+            "videoQuality": 10,
+            "videoType": "sideBySide",
+            "videoPiPType": "road",
+            "codec_type": "h264",
+            "audioEnabled": false
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2022-11-26T16:35:39.964Z"
+          }
+        }
+      ],
+      "device": {
+        "deviceId": "353436105011125"
+      },
+      "asset": {
+        "assetId": "353436105011125"
+      },
+      "eventVideoFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-26/eventVideo_external_capture_dvr_trip_master_2022_11_26_16_32_48_173_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_2USzQ_2_2022_11_26_16_32_57_528_1XwwpetlIOprimary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=a4074bb6b8736070c20449f17a18ff720938a55f65c1dd444e75c11dd74dac7b&X-Amz-SignedHeaders=host",
+      "videoDetails": {
+        "videoWidth": 640,
+        "videoHeight": 360,
+        "videoBitrate": 1000000,
+        "videoQuality": 10,
+        "videoType": "sideBySide",
+        "videoPiPType": "road",
+        "codec_type": "h264",
+        "audioEnabled": false
+      },
+      "eventVideoFilenameUploadStatus": {
+        "status": "UPLOADED",
+        "uploadTimestamp": "2022-11-26T16:35:39.964Z"
+      },
+      "accProfileUploaded": true
+    },
+    {
+      "fleetId": "qatest001",
+      "driverId": "vikramqa",
+      "driverName": "vikramqa",
+      "tripId": "trip_master_2022_11_26_16_32_48_173_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_2USzQ",
+      "eventType": "Custom-Triggered",
+      "timestamp": "2022-11-26T22:02:57.966Z",
+      "timestampUTC": "2022-11-26T16:32:57.966Z",
+      "longitude": 77.48799394,
+      "latitude": 12.91981613,
+      "bearing": 0,
+      "speed": 0,
+      "accuracy": 146.864,
+      "eventIndex": 9,
+      "timeZoneId": "Asia/Kolkata",
+      "mediaFiles": [
+        {
+          "mediaFileIndex": 0,
+          "mediaFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-26/eventImage_external_capture_trip_master_2022_11_26_16_32_48_173_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_2USzQ_2_1669480377681.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=867d17b622fbeb3dc2688e275c703d0218252de79528bfb508157f14f88d586f&X-Amz-SignedHeaders=host",
+          "mediaType": "IMAGE",
+          "source": "SIDE_BY_SIDE",
+          "imageDetails": {
+            "imageWidth": 2560,
+            "imageHeight": 720,
+            "includesPII": true,
+            "imageQuality": 10,
+            "imageType": "sideBySide",
+            "imagePiPType": "road"
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2022-11-26T16:33:07.036Z"
+          }
+        }
+      ],
+      "device": {
+        "deviceId": "353436105011125"
+      },
+      "asset": {
+        "assetId": "353436105011125"
+      },
+      "eventVideoFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-26/eventImage_external_capture_trip_master_2022_11_26_16_32_48_173_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_2USzQ_2_1669480377681.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=867d17b622fbeb3dc2688e275c703d0218252de79528bfb508157f14f88d586f&X-Amz-SignedHeaders=host",
+      "imageDetails": {
+        "imageWidth": 2560,
+        "imageHeight": 720,
+        "includesPII": true,
+        "imageQuality": 10,
+        "imageType": "sideBySide",
+        "imagePiPType": "road"
+      },
+      "eventVideoFilenameUploadStatus": {
+        "status": "UPLOADED",
+        "uploadTimestamp": "2022-11-26T16:33:07.036Z"
+      },
+      "accProfileUploaded": false
+    },
+    {
+      "fleetId": "qatest001",
+      "driverId": "vikramqa",
+      "driverName": "vikramqa",
+      "tripId": "trip_master_2022_11_26_16_32_48_173_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_2USzQ",
+      "eventType": "Custom-Triggered",
+      "timestamp": "2022-11-26T22:02:58.045Z",
+      "timestampUTC": "2022-11-26T16:32:58.045Z",
+      "longitude": 77.48799394,
+      "latitude": 12.91981613,
+      "bearing": 0,
+      "speed": 0,
+      "accuracy": 146.864,
+      "eventIndex": 10,
+      "timeZoneId": "Asia/Kolkata",
+      "mediaFiles": [
+        {
+          "mediaFileIndex": 0,
+          "mediaFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-26/eventVideo_external_capture_dvr_trip_master_2022_11_26_16_32_48_173_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_2USzQ_3_2022_11_26_16_32_58_014_gljV7MZDCGprimary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=8b0de34e063a90b0f1889c4fbd0b93a579e57c59d5e8586ef8ee10a2a837ef8e&X-Amz-SignedHeaders=host",
+          "mediaType": "VIDEO",
+          "source": "SIDE_BY_SIDE",
+          "videoDetails": {
+            "videoWidth": 640,
+            "videoHeight": 360,
+            "videoBitrate": 1000000,
+            "videoQuality": 10,
+            "videoType": "sideBySide",
+            "videoPiPType": "road",
+            "codec_type": "h264",
+            "audioEnabled": false
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2022-11-26T16:36:15.811Z"
+          }
+        }
+      ],
+      "device": {
+        "deviceId": "353436105011125"
+      },
+      "asset": {
+        "assetId": "353436105011125"
+      },
+      "eventVideoFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-26/eventVideo_external_capture_dvr_trip_master_2022_11_26_16_32_48_173_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_2USzQ_3_2022_11_26_16_32_58_014_gljV7MZDCGprimary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=8b0de34e063a90b0f1889c4fbd0b93a579e57c59d5e8586ef8ee10a2a837ef8e&X-Amz-SignedHeaders=host",
+      "videoDetails": {
+        "videoWidth": 640,
+        "videoHeight": 360,
+        "videoBitrate": 1000000,
+        "videoQuality": 10,
+        "videoType": "sideBySide",
+        "videoPiPType": "road",
+        "codec_type": "h264",
+        "audioEnabled": false
+      },
+      "eventVideoFilenameUploadStatus": {
+        "status": "UPLOADED",
+        "uploadTimestamp": "2022-11-26T16:36:15.811Z"
+      },
+      "accProfileUploaded": true
+    },
+    {
+      "fleetId": "qatest001",
+      "driverId": "vikramqa",
+      "driverName": "vikramqa",
+      "tripId": "trip_master_2022_11_26_16_32_48_173_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_2USzQ",
+      "eventType": "Custom-Triggered",
+      "timestamp": "2022-11-26T22:02:58.369Z",
+      "timestampUTC": "2022-11-26T16:32:58.369Z",
+      "longitude": 77.48799394,
+      "latitude": 12.91981613,
+      "bearing": 0,
+      "speed": 0,
+      "accuracy": 146.864,
+      "eventIndex": 11,
+      "timeZoneId": "Asia/Kolkata",
+      "mediaFiles": [
+        {
+          "mediaFileIndex": 0,
+          "mediaFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-26/eventImage_external_capture_trip_master_2022_11_26_16_32_48_173_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_2USzQ_3_1669480378094.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=b6f0b1bf263623d2ca17ee91d25a8b3b51e4a996cebc91f7118c94e3f2cad49d&X-Amz-SignedHeaders=host",
+          "mediaType": "IMAGE",
+          "source": "SIDE_BY_SIDE",
+          "imageDetails": {
+            "imageWidth": 2560,
+            "imageHeight": 720,
+            "includesPII": true,
+            "imageQuality": 10,
+            "imageType": "sideBySide",
+            "imagePiPType": "road"
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2022-11-26T16:33:06.635Z"
+          }
+        }
+      ],
+      "device": {
+        "deviceId": "353436105011125"
+      },
+      "asset": {
+        "assetId": "353436105011125"
+      },
+      "eventVideoFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-26/eventImage_external_capture_trip_master_2022_11_26_16_32_48_173_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_2USzQ_3_1669480378094.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=b6f0b1bf263623d2ca17ee91d25a8b3b51e4a996cebc91f7118c94e3f2cad49d&X-Amz-SignedHeaders=host",
+      "imageDetails": {
+        "imageWidth": 2560,
+        "imageHeight": 720,
+        "includesPII": true,
+        "imageQuality": 10,
+        "imageType": "sideBySide",
+        "imagePiPType": "road"
+      },
+      "eventVideoFilenameUploadStatus": {
+        "status": "UPLOADED",
+        "uploadTimestamp": "2022-11-26T16:33:06.635Z"
+      },
+      "accProfileUploaded": false
+    },
+    {
+      "fleetId": "qatest001",
+      "driverId": "vikramqa",
+      "driverName": "vikramqa",
+      "tripId": "trip_master_2022_11_26_16_32_48_173_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_2USzQ",
+      "eventType": "Custom-Triggered",
+      "timestamp": "2022-11-26T22:02:58.492Z",
+      "timestampUTC": "2022-11-26T16:32:58.492Z",
+      "longitude": 77.48799394,
+      "latitude": 12.91981613,
+      "bearing": 0,
+      "speed": 0,
+      "accuracy": 146.864,
+      "eventIndex": 12,
+      "timeZoneId": "Asia/Kolkata",
+      "mediaFiles": [
+        {
+          "mediaFileIndex": 0,
+          "mediaFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-26/eventVideo_external_capture_dvr_trip_master_2022_11_26_16_32_48_173_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_2USzQ_4_2022_11_26_16_32_58_427_HrVDMdzTV0primary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=f70a9b7460a9bd232d239616139ef75eab1148cddc4412159ef8ae4a5bf3b951&X-Amz-SignedHeaders=host",
+          "mediaType": "VIDEO",
+          "source": "SIDE_BY_SIDE",
+          "videoDetails": {
+            "videoWidth": 640,
+            "videoHeight": 360,
+            "videoBitrate": 1000000,
+            "videoQuality": 10,
+            "videoType": "sideBySide",
+            "videoPiPType": "road",
+            "codec_type": "h264",
+            "audioEnabled": false
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2022-11-26T16:36:11.303Z"
+          }
+        }
+      ],
+      "device": {
+        "deviceId": "353436105011125"
+      },
+      "asset": {
+        "assetId": "353436105011125"
+      },
+      "eventVideoFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-26/eventVideo_external_capture_dvr_trip_master_2022_11_26_16_32_48_173_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_2USzQ_4_2022_11_26_16_32_58_427_HrVDMdzTV0primary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=f70a9b7460a9bd232d239616139ef75eab1148cddc4412159ef8ae4a5bf3b951&X-Amz-SignedHeaders=host",
+      "videoDetails": {
+        "videoWidth": 640,
+        "videoHeight": 360,
+        "videoBitrate": 1000000,
+        "videoQuality": 10,
+        "videoType": "sideBySide",
+        "videoPiPType": "road",
+        "codec_type": "h264",
+        "audioEnabled": false
+      },
+      "eventVideoFilenameUploadStatus": {
+        "status": "UPLOADED",
+        "uploadTimestamp": "2022-11-26T16:36:11.303Z"
+      },
+      "accProfileUploaded": true
+    },
+    {
+      "fleetId": "qatest001",
+      "driverId": "vikramqa",
+      "driverName": "vikramqa",
+      "tripId": "trip_master_2022_11_26_16_32_48_173_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_2USzQ",
+      "eventType": "Custom-Triggered",
+      "timestamp": "2022-11-26T22:02:58.949Z",
+      "timestampUTC": "2022-11-26T16:32:58.949Z",
+      "longitude": 77.4879956,
+      "latitude": 12.91984202,
+      "bearing": 0,
+      "speed": 0,
+      "accuracy": 149.00801,
+      "eventIndex": 13,
+      "timeZoneId": "Asia/Kolkata",
+      "mediaFiles": [
+        {
+          "mediaFileIndex": 0,
+          "mediaFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-26/eventImage_external_capture_trip_master_2022_11_26_16_32_48_173_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_2USzQ_4_1669480378624.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=3132d634e25e1bfd393c822d6faa3fd300c04d3dd1fc5c5bacd5e48c4d7a62e8&X-Amz-SignedHeaders=host",
+          "mediaType": "IMAGE",
+          "source": "SIDE_BY_SIDE",
+          "imageDetails": {
+            "imageWidth": 2560,
+            "imageHeight": 720,
+            "includesPII": true,
+            "imageQuality": 10,
+            "imageType": "sideBySide",
+            "imagePiPType": "road"
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2022-11-26T16:33:08.785Z"
+          }
+        }
+      ],
+      "device": {
+        "deviceId": "353436105011125"
+      },
+      "asset": {
+        "assetId": "353436105011125"
+      },
+      "eventVideoFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-26/eventImage_external_capture_trip_master_2022_11_26_16_32_48_173_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_2USzQ_4_1669480378624.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=3132d634e25e1bfd393c822d6faa3fd300c04d3dd1fc5c5bacd5e48c4d7a62e8&X-Amz-SignedHeaders=host",
+      "imageDetails": {
+        "imageWidth": 2560,
+        "imageHeight": 720,
+        "includesPII": true,
+        "imageQuality": 10,
+        "imageType": "sideBySide",
+        "imagePiPType": "road"
+      },
+      "eventVideoFilenameUploadStatus": {
+        "status": "UPLOADED",
+        "uploadTimestamp": "2022-11-26T16:33:08.785Z"
+      },
+      "accProfileUploaded": false
+    },
+    {
+      "fleetId": "qatest001",
+      "driverId": "vikramqa",
+      "driverName": "vikramqa",
+      "tripId": "trip_master_2022_11_26_17_41_19_684_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_XxZ60",
+      "eventType": "Custom-Triggered",
+      "timestamp": "2022-11-26T23:11:34.426Z",
+      "timestampUTC": "2022-11-26T17:41:34.426Z",
+      "longitude": 0,
+      "latitude": 0,
+      "bearing": 0,
+      "speed": -1,
+      "accuracy": 0,
+      "eventIndex": 6,
+      "timeZoneId": "Asia/Kolkata",
+      "mediaFiles": [
+        {
+          "mediaFileIndex": 0,
+          "mediaFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-26/eventVideo_external_capture_dvr_trip_master_2022_11_26_17_41_19_684_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_XxZ60_1_2022_11_26_17_41_32_979_UZlSxfygeNprimary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=0463b600a5460154a16e2415d59723eead8c91afa2c3955d419821b217d8f5be&X-Amz-SignedHeaders=host",
+          "mediaType": "VIDEO",
+          "source": "SIDE_BY_SIDE",
+          "videoDetails": {
+            "videoWidth": 640,
+            "videoHeight": 360,
+            "videoBitrate": 1000000,
+            "videoQuality": 10,
+            "videoType": "sideBySide",
+            "videoPiPType": "road",
+            "codec_type": "h264",
+            "audioEnabled": false
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2022-11-26T17:42:12.639Z"
+          }
+        }
+      ],
+      "device": {
+        "deviceId": "353436105011125"
+      },
+      "asset": {
+        "assetId": "353436105011125"
+      },
+      "eventVideoFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-26/eventVideo_external_capture_dvr_trip_master_2022_11_26_17_41_19_684_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_XxZ60_1_2022_11_26_17_41_32_979_UZlSxfygeNprimary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=0463b600a5460154a16e2415d59723eead8c91afa2c3955d419821b217d8f5be&X-Amz-SignedHeaders=host",
+      "videoDetails": {
+        "videoWidth": 640,
+        "videoHeight": 360,
+        "videoBitrate": 1000000,
+        "videoQuality": 10,
+        "videoType": "sideBySide",
+        "videoPiPType": "road",
+        "codec_type": "h264",
+        "audioEnabled": false
+      },
+      "eventVideoFilenameUploadStatus": {
+        "status": "UPLOADED",
+        "uploadTimestamp": "2022-11-26T17:42:12.639Z"
+      },
+      "accProfileUploaded": true
+    },
+    {
+      "fleetId": "qatest001",
+      "driverId": "vikramqa",
+      "driverName": "vikramqa",
+      "tripId": "trip_master_2022_11_26_17_41_19_684_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_XxZ60",
+      "eventType": "Custom-Triggered",
+      "timestamp": "2022-11-26T23:11:37.125Z",
+      "timestampUTC": "2022-11-26T17:41:37.125Z",
+      "longitude": 0,
+      "latitude": 0,
+      "bearing": 0,
+      "speed": -1,
+      "accuracy": 0,
+      "eventIndex": 7,
+      "timeZoneId": "Asia/Kolkata",
+      "device": {
+        "deviceId": "353436105011125"
+      },
+      "asset": {
+        "assetId": "353436105011125"
+      },
+      "accProfileUploaded": false
+    },
+    {
+      "fleetId": "qatest001",
+      "driverId": "vikramqa",
+      "driverName": "vikramqa",
+      "tripId": "trip_master_2022_11_26_17_41_19_684_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_XxZ60",
+      "eventType": "Custom-Triggered",
+      "timestamp": "2022-11-26T23:11:40.328Z",
+      "timestampUTC": "2022-11-26T17:41:40.328Z",
+      "longitude": 0,
+      "latitude": 0,
+      "bearing": 0,
+      "speed": -1,
+      "accuracy": 0,
+      "eventIndex": 8,
+      "timeZoneId": "Asia/Kolkata",
+      "mediaFiles": [
+        {
+          "mediaFileIndex": 0,
+          "mediaFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-26/eventVideo_external_capture_dvr_trip_master_2022_11_26_17_41_19_684_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_XxZ60_2_2022_11_26_17_41_39_162_iW5IEXGgQVprimary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=209d850fa0b3b03bb5a4488633b9c3c4f072f6e5f6de26eb5c03f4d6bc4feb00&X-Amz-SignedHeaders=host",
+          "mediaType": "VIDEO",
+          "source": "SIDE_BY_SIDE",
+          "videoDetails": {
+            "videoWidth": 640,
+            "videoHeight": 360,
+            "videoBitrate": 1000000,
+            "videoQuality": 10,
+            "videoType": "sideBySide",
+            "videoPiPType": "road",
+            "codec_type": "h264",
+            "audioEnabled": false
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2022-11-26T17:42:22.186Z"
+          }
+        }
+      ],
+      "device": {
+        "deviceId": "353436105011125"
+      },
+      "asset": {
+        "assetId": "353436105011125"
+      },
+      "eventVideoFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-26/eventVideo_external_capture_dvr_trip_master_2022_11_26_17_41_19_684_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_XxZ60_2_2022_11_26_17_41_39_162_iW5IEXGgQVprimary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=209d850fa0b3b03bb5a4488633b9c3c4f072f6e5f6de26eb5c03f4d6bc4feb00&X-Amz-SignedHeaders=host",
+      "videoDetails": {
+        "videoWidth": 640,
+        "videoHeight": 360,
+        "videoBitrate": 1000000,
+        "videoQuality": 10,
+        "videoType": "sideBySide",
+        "videoPiPType": "road",
+        "codec_type": "h264",
+        "audioEnabled": false
+      },
+      "eventVideoFilenameUploadStatus": {
+        "status": "UPLOADED",
+        "uploadTimestamp": "2022-11-26T17:42:22.186Z"
+      },
+      "accProfileUploaded": true
+    },
+    {
+      "fleetId": "qatest001",
+      "driverId": "vikramqa",
+      "driverName": "vikramqa",
+      "tripId": "trip_master_2022_11_26_17_41_19_684_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_XxZ60",
+      "eventType": "Custom-Triggered",
+      "timestamp": "2022-11-26T23:11:45.266Z",
+      "timestampUTC": "2022-11-26T17:41:45.266Z",
+      "longitude": 0,
+      "latitude": 0,
+      "bearing": 0,
+      "speed": -1,
+      "accuracy": 0,
+      "eventIndex": 9,
+      "timeZoneId": "Asia/Kolkata",
+      "mediaFiles": [
+        {
+          "mediaFileIndex": 0,
+          "mediaFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-26/eventImage_external_capture_trip_master_2022_11_26_17_41_19_684_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_XxZ60_2_1669484501276.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=4be101d28a66c1a2012adf8eb803d48242636316ba8f8b8b355601e1b98654a4&X-Amz-SignedHeaders=host",
+          "mediaType": "IMAGE",
+          "source": "ROAD_FACING",
+          "imageDetails": {
+            "imageWidth": 1280,
+            "imageHeight": 720,
+            "includesPII": false,
+            "imageQuality": 10,
+            "imageType": "road",
+            "imagePiPType": "road"
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2022-11-26T17:41:51.897Z"
+          }
+        }
+      ],
+      "device": {
+        "deviceId": "353436105011125"
+      },
+      "asset": {
+        "assetId": "353436105011125"
+      },
+      "eventVideoFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-26/eventImage_external_capture_trip_master_2022_11_26_17_41_19_684_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_XxZ60_2_1669484501276.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=4be101d28a66c1a2012adf8eb803d48242636316ba8f8b8b355601e1b98654a4&X-Amz-SignedHeaders=host",
+      "imageDetails": {
+        "imageWidth": 1280,
+        "imageHeight": 720,
+        "includesPII": false,
+        "imageQuality": 10,
+        "imageType": "road",
+        "imagePiPType": "road"
+      },
+      "eventVideoFilenameUploadStatus": {
+        "status": "UPLOADED",
+        "uploadTimestamp": "2022-11-26T17:41:51.897Z"
+      },
+      "accProfileUploaded": false
+    },
+    {
+      "fleetId": "qatest001",
+      "driverId": "vikramqa",
+      "driverName": "vikramqa",
+      "tripId": "trip_master_2022_11_26_17_41_19_684_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_XxZ60",
+      "eventType": "Custom-Triggered",
+      "timestamp": "2022-11-26T23:11:47.065Z",
+      "timestampUTC": "2022-11-26T17:41:47.065Z",
+      "longitude": 0,
+      "latitude": 0,
+      "bearing": 0,
+      "speed": -1,
+      "accuracy": 0,
+      "eventIndex": 11,
+      "timeZoneId": "Asia/Kolkata",
+      "mediaFiles": [
+        {
+          "mediaFileIndex": 0,
+          "mediaFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-26/eventVideo_external_capture_dvr_trip_master_2022_11_26_17_41_19_684_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_XxZ60_3_2022_11_26_17_41_46_432_SyOxUhy7lAprimary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=aef4613af23d23a4f90243bf79c0fdb40b670feaa558b49bb13cc97cdfe2905c&X-Amz-SignedHeaders=host",
+          "mediaType": "VIDEO",
+          "source": "SIDE_BY_SIDE",
+          "videoDetails": {
+            "videoWidth": 640,
+            "videoHeight": 360,
+            "videoBitrate": 1000000,
+            "videoQuality": 10,
+            "videoType": "sideBySide",
+            "videoPiPType": "road",
+            "codec_type": "h264",
+            "audioEnabled": false
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2022-11-27T00:17:07.408Z"
+          }
+        }
+      ],
+      "device": {
+        "deviceId": "353436105011125"
+      },
+      "asset": {
+        "assetId": "353436105011125"
+      },
+      "eventVideoFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-26/eventVideo_external_capture_dvr_trip_master_2022_11_26_17_41_19_684_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_XxZ60_3_2022_11_26_17_41_46_432_SyOxUhy7lAprimary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=aef4613af23d23a4f90243bf79c0fdb40b670feaa558b49bb13cc97cdfe2905c&X-Amz-SignedHeaders=host",
+      "videoDetails": {
+        "videoWidth": 640,
+        "videoHeight": 360,
+        "videoBitrate": 1000000,
+        "videoQuality": 10,
+        "videoType": "sideBySide",
+        "videoPiPType": "road",
+        "codec_type": "h264",
+        "audioEnabled": false
+      },
+      "eventVideoFilenameUploadStatus": {
+        "status": "UPLOADED",
+        "uploadTimestamp": "2022-11-27T00:17:07.408Z"
+      },
+      "accProfileUploaded": true
+    },
+    {
+      "fleetId": "qatest001",
+      "driverId": "vikramqa",
+      "driverName": "vikramqa",
+      "tripId": "trip_master_2022_11_26_17_41_19_684_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_XxZ60",
+      "eventType": "Custom-Triggered",
+      "timestamp": "2022-11-26T23:11:48.782Z",
+      "timestampUTC": "2022-11-26T17:41:48.782Z",
+      "longitude": 0,
+      "latitude": 0,
+      "bearing": 0,
+      "speed": -1,
+      "accuracy": 0,
+      "eventIndex": 12,
+      "timeZoneId": "Asia/Kolkata",
+      "device": {
+        "deviceId": "353436105011125"
+      },
+      "asset": {
+        "assetId": "353436105011125"
+      },
+      "accProfileUploaded": false
+    },
+    {
+      "fleetId": "qatest001",
+      "driverId": "vikramqa",
+      "driverName": "vikramqa",
+      "tripId": "trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L",
+      "eventType": "Custom-Triggered",
+      "timestamp": "2022-11-27T05:47:49.237Z",
+      "timestampUTC": "2022-11-27T00:17:49.237Z",
+      "longitude": 77.48201671,
+      "latitude": 12.91277476,
+      "bearing": 189,
+      "speed": 7.61,
+      "accuracy": 5.36,
+      "eventIndex": 8,
+      "timeZoneId": "Asia/Kolkata",
+      "mediaFiles": [
+        {
+          "mediaFileIndex": 0,
+          "mediaFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-27/eventVideo_external_capture_dvr_trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L_1_2022_11_27_00_17_49_118_nnLR2zRjWOprimary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=f6ec3b876181cfbba0d293472960983567276f263040306f26043570bc7bb7a8&X-Amz-SignedHeaders=host",
+          "mediaType": "VIDEO",
+          "source": "SIDE_BY_SIDE",
+          "videoDetails": {
+            "videoWidth": 640,
+            "videoHeight": 360,
+            "videoBitrate": 1000000,
+            "videoQuality": 10,
+            "videoType": "sideBySide",
+            "videoPiPType": "road",
+            "codec_type": "h264",
+            "audioEnabled": false
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2022-11-27T00:19:37.965Z"
+          }
+        }
+      ],
+      "device": {
+        "deviceId": "353436105011125"
+      },
+      "asset": {
+        "assetId": "353436105011125"
+      },
+      "eventVideoFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-27/eventVideo_external_capture_dvr_trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L_1_2022_11_27_00_17_49_118_nnLR2zRjWOprimary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=f6ec3b876181cfbba0d293472960983567276f263040306f26043570bc7bb7a8&X-Amz-SignedHeaders=host",
+      "videoDetails": {
+        "videoWidth": 640,
+        "videoHeight": 360,
+        "videoBitrate": 1000000,
+        "videoQuality": 10,
+        "videoType": "sideBySide",
+        "videoPiPType": "road",
+        "codec_type": "h264",
+        "audioEnabled": false
+      },
+      "eventVideoFilenameUploadStatus": {
+        "status": "UPLOADED",
+        "uploadTimestamp": "2022-11-27T00:19:37.965Z"
+      },
+      "accProfileUploaded": true
+    },
+    {
+      "fleetId": "qatest001",
+      "driverId": "vikramqa",
+      "driverName": "vikramqa",
+      "tripId": "trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L",
+      "eventType": "Custom-Triggered",
+      "timestamp": "2022-11-27T05:47:49.977Z",
+      "timestampUTC": "2022-11-27T00:17:49.977Z",
+      "longitude": 77.48201671,
+      "latitude": 12.91277476,
+      "bearing": 189,
+      "speed": 7.61,
+      "accuracy": 5.36,
+      "eventIndex": 9,
+      "timeZoneId": "Asia/Kolkata",
+      "mediaFiles": [
+        {
+          "mediaFileIndex": 0,
+          "mediaFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-27/eventImage_external_capture_trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L_1_1669508269435.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=45bb71f4c4a4fb4f0cda5b27a6b2d0f62b814837a2fa5735b9c268616c6bc1a8&X-Amz-SignedHeaders=host",
+          "mediaType": "IMAGE",
+          "source": "PIP_ROAD_MAJOR",
+          "imageDetails": {
+            "imageWidth": 1280,
+            "imageHeight": 720,
+            "includesPII": true,
+            "imageQuality": 10,
+            "imageType": "pictureInPicture",
+            "imagePiPType": "road"
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2022-11-27T00:18:07.363Z"
+          }
+        }
+      ],
+      "device": {
+        "deviceId": "353436105011125"
+      },
+      "asset": {
+        "assetId": "353436105011125"
+      },
+      "eventVideoFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-27/eventImage_external_capture_trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L_1_1669508269435.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=45bb71f4c4a4fb4f0cda5b27a6b2d0f62b814837a2fa5735b9c268616c6bc1a8&X-Amz-SignedHeaders=host",
+      "imageDetails": {
+        "imageWidth": 1280,
+        "imageHeight": 720,
+        "includesPII": true,
+        "imageQuality": 10,
+        "imageType": "pictureInPicture",
+        "imagePiPType": "road"
+      },
+      "eventVideoFilenameUploadStatus": {
+        "status": "UPLOADED",
+        "uploadTimestamp": "2022-11-27T00:18:07.363Z"
+      },
+      "accProfileUploaded": false
+    },
+    {
+      "fleetId": "qatest001",
+      "driverId": "vikramqa",
+      "driverName": "vikramqa",
+      "tripId": "trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L",
+      "eventType": "Custom-Triggered",
+      "timestamp": "2022-11-27T05:47:52.892Z",
+      "timestampUTC": "2022-11-27T00:17:52.892Z",
+      "longitude": 77.48202321,
+      "latitude": 12.9124723,
+      "bearing": 183.4,
+      "speed": 7.9,
+      "accuracy": 5.36,
+      "eventIndex": 10,
+      "timeZoneId": "Asia/Kolkata",
+      "mediaFiles": [
+        {
+          "mediaFileIndex": 0,
+          "mediaFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-27/eventVideo_external_capture_dvr_trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L_2_2022_11_27_00_17_52_682_xJPYuSmqhFprimary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=84b53d345cf57e64a60d84c9d751483b7883aa9a1c2319b48cfae9be4c37cf04&X-Amz-SignedHeaders=host",
+          "mediaType": "VIDEO",
+          "source": "SIDE_BY_SIDE",
+          "videoDetails": {
+            "videoWidth": 640,
+            "videoHeight": 360,
+            "videoBitrate": 1000000,
+            "videoQuality": 10,
+            "videoType": "sideBySide",
+            "videoPiPType": "road",
+            "codec_type": "h264",
+            "audioEnabled": false
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2022-11-27T00:20:02.289Z"
+          }
+        }
+      ],
+      "device": {
+        "deviceId": "353436105011125"
+      },
+      "asset": {
+        "assetId": "353436105011125"
+      },
+      "eventVideoFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-27/eventVideo_external_capture_dvr_trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L_2_2022_11_27_00_17_52_682_xJPYuSmqhFprimary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=84b53d345cf57e64a60d84c9d751483b7883aa9a1c2319b48cfae9be4c37cf04&X-Amz-SignedHeaders=host",
+      "videoDetails": {
+        "videoWidth": 640,
+        "videoHeight": 360,
+        "videoBitrate": 1000000,
+        "videoQuality": 10,
+        "videoType": "sideBySide",
+        "videoPiPType": "road",
+        "codec_type": "h264",
+        "audioEnabled": false
+      },
+      "eventVideoFilenameUploadStatus": {
+        "status": "UPLOADED",
+        "uploadTimestamp": "2022-11-27T00:20:02.289Z"
+      },
+      "accProfileUploaded": true
+    },
+    {
+      "fleetId": "qatest001",
+      "driverId": "vikramqa",
+      "driverName": "vikramqa",
+      "tripId": "trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L",
+      "eventType": "Custom-Triggered",
+      "timestamp": "2022-11-27T05:47:53.149Z",
+      "timestampUTC": "2022-11-27T00:17:53.149Z",
+      "longitude": 77.48202321,
+      "latitude": 12.9124723,
+      "bearing": 183.4,
+      "speed": 7.9,
+      "accuracy": 5.36,
+      "eventIndex": 11,
+      "timeZoneId": "Asia/Kolkata",
+      "mediaFiles": [
+        {
+          "mediaFileIndex": 0,
+          "mediaFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-27/eventImage_external_capture_trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L_2_1669508273006.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=dad933a485edfd8af0ae90a3e5c69733b3deb8404ab77db9e2f82d63e1d2cb9f&X-Amz-SignedHeaders=host",
+          "mediaType": "IMAGE",
+          "source": "PIP_ROAD_MAJOR",
+          "imageDetails": {
+            "imageWidth": 1280,
+            "imageHeight": 720,
+            "includesPII": true,
+            "imageQuality": 10,
+            "imageType": "pictureInPicture",
+            "imagePiPType": "road"
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2022-11-27T00:18:08.451Z"
+          }
+        }
+      ],
+      "device": {
+        "deviceId": "353436105011125"
+      },
+      "asset": {
+        "assetId": "353436105011125"
+      },
+      "eventVideoFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-27/eventImage_external_capture_trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L_2_1669508273006.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=dad933a485edfd8af0ae90a3e5c69733b3deb8404ab77db9e2f82d63e1d2cb9f&X-Amz-SignedHeaders=host",
+      "imageDetails": {
+        "imageWidth": 1280,
+        "imageHeight": 720,
+        "includesPII": true,
+        "imageQuality": 10,
+        "imageType": "pictureInPicture",
+        "imagePiPType": "road"
+      },
+      "eventVideoFilenameUploadStatus": {
+        "status": "UPLOADED",
+        "uploadTimestamp": "2022-11-27T00:18:08.451Z"
+      },
+      "accProfileUploaded": false
+    },
+    {
+      "fleetId": "qatest001",
+      "driverId": "vikramqa",
+      "driverName": "vikramqa",
+      "tripId": "trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L",
+      "eventType": "Custom-Triggered",
+      "timestamp": "2022-11-27T05:47:54.496Z",
+      "timestampUTC": "2022-11-27T00:17:54.496Z",
+      "longitude": 77.48201587,
+      "latitude": 12.91240043,
+      "bearing": 183,
+      "speed": 7.93,
+      "accuracy": 5.36,
+      "eventIndex": 12,
+      "timeZoneId": "Asia/Kolkata",
+      "mediaFiles": [
+        {
+          "mediaFileIndex": 0,
+          "mediaFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-27/eventVideo_external_capture_dvr_trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L_3_2022_11_27_00_17_54_451_U8N0pqGgtUprimary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=6216c82e7e70dcd5fd42ce1ded8996fc44191a957e2161b8316be97e5949d867&X-Amz-SignedHeaders=host",
+          "mediaType": "VIDEO",
+          "source": "SIDE_BY_SIDE",
+          "videoDetails": {
+            "videoWidth": 640,
+            "videoHeight": 360,
+            "videoBitrate": 1000000,
+            "videoQuality": 10,
+            "videoType": "sideBySide",
+            "videoPiPType": "road",
+            "codec_type": "h264",
+            "audioEnabled": false
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2022-11-27T00:21:24.155Z"
+          }
+        }
+      ],
+      "device": {
+        "deviceId": "353436105011125"
+      },
+      "asset": {
+        "assetId": "353436105011125"
+      },
+      "eventVideoFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-27/eventVideo_external_capture_dvr_trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L_3_2022_11_27_00_17_54_451_U8N0pqGgtUprimary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=6216c82e7e70dcd5fd42ce1ded8996fc44191a957e2161b8316be97e5949d867&X-Amz-SignedHeaders=host",
+      "videoDetails": {
+        "videoWidth": 640,
+        "videoHeight": 360,
+        "videoBitrate": 1000000,
+        "videoQuality": 10,
+        "videoType": "sideBySide",
+        "videoPiPType": "road",
+        "codec_type": "h264",
+        "audioEnabled": false
+      },
+      "eventVideoFilenameUploadStatus": {
+        "status": "UPLOADED",
+        "uploadTimestamp": "2022-11-27T00:21:24.155Z"
+      },
+      "accProfileUploaded": true
+    },
+    {
+      "fleetId": "qatest001",
+      "driverId": "vikramqa",
+      "driverName": "vikramqa",
+      "tripId": "trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L",
+      "eventType": "Custom-Triggered",
+      "timestamp": "2022-11-27T05:47:54.912Z",
+      "timestampUTC": "2022-11-27T00:17:54.912Z",
+      "longitude": 77.4820098,
+      "latitude": 12.91232964,
+      "bearing": 183.8,
+      "speed": 7.91,
+      "accuracy": 5.36,
+      "eventIndex": 13,
+      "timeZoneId": "Asia/Kolkata",
+      "mediaFiles": [
+        {
+          "mediaFileIndex": 0,
+          "mediaFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-27/eventImage_external_capture_trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L_3_1669508274574.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=fc833a4f612696ae1aa471b57a9b357e4fdfbe337a0454d5c097a385e917e993&X-Amz-SignedHeaders=host",
+          "mediaType": "IMAGE",
+          "source": "PIP_ROAD_MAJOR",
+          "imageDetails": {
+            "imageWidth": 1280,
+            "imageHeight": 720,
+            "includesPII": true,
+            "imageQuality": 10,
+            "imageType": "pictureInPicture",
+            "imagePiPType": "road"
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2022-11-27T00:18:09.784Z"
+          }
+        }
+      ],
+      "device": {
+        "deviceId": "353436105011125"
+      },
+      "asset": {
+        "assetId": "353436105011125"
+      },
+      "eventVideoFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-27/eventImage_external_capture_trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L_3_1669508274574.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=fc833a4f612696ae1aa471b57a9b357e4fdfbe337a0454d5c097a385e917e993&X-Amz-SignedHeaders=host",
+      "imageDetails": {
+        "imageWidth": 1280,
+        "imageHeight": 720,
+        "includesPII": true,
+        "imageQuality": 10,
+        "imageType": "pictureInPicture",
+        "imagePiPType": "road"
+      },
+      "eventVideoFilenameUploadStatus": {
+        "status": "UPLOADED",
+        "uploadTimestamp": "2022-11-27T00:18:09.784Z"
+      },
+      "accProfileUploaded": false
+    },
+    {
+      "fleetId": "qatest001",
+      "driverId": "vikramqa",
+      "driverName": "vikramqa",
+      "tripId": "trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L",
+      "eventType": "Custom-Triggered",
+      "timestamp": "2022-11-27T05:47:57.749Z",
+      "timestampUTC": "2022-11-27T00:17:57.749Z",
+      "longitude": 77.48198491,
+      "latitude": 12.91211167,
+      "bearing": 186.9,
+      "speed": 8.17,
+      "accuracy": 5.36,
+      "eventIndex": 14,
+      "timeZoneId": "Asia/Kolkata",
+      "mediaFiles": [
+        {
+          "mediaFileIndex": 0,
+          "mediaFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-27/eventVideo_external_capture_dvr_trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L_4_2022_11_27_00_17_57_672_ENWUgBJGbDprimary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=289bd1158b546195bb7f7622dbe09a57f339f6c6d4dc0999858cfbd76815434d&X-Amz-SignedHeaders=host",
+          "mediaType": "VIDEO",
+          "source": "SIDE_BY_SIDE",
+          "videoDetails": {
+            "videoWidth": 640,
+            "videoHeight": 360,
+            "videoBitrate": 1000000,
+            "videoQuality": 10,
+            "videoType": "sideBySide",
+            "videoPiPType": "road",
+            "codec_type": "h264",
+            "audioEnabled": false
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2022-11-27T00:21:32.369Z"
+          }
+        }
+      ],
+      "device": {
+        "deviceId": "353436105011125"
+      },
+      "asset": {
+        "assetId": "353436105011125"
+      },
+      "eventVideoFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-27/eventVideo_external_capture_dvr_trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L_4_2022_11_27_00_17_57_672_ENWUgBJGbDprimary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=289bd1158b546195bb7f7622dbe09a57f339f6c6d4dc0999858cfbd76815434d&X-Amz-SignedHeaders=host",
+      "videoDetails": {
+        "videoWidth": 640,
+        "videoHeight": 360,
+        "videoBitrate": 1000000,
+        "videoQuality": 10,
+        "videoType": "sideBySide",
+        "videoPiPType": "road",
+        "codec_type": "h264",
+        "audioEnabled": false
+      },
+      "eventVideoFilenameUploadStatus": {
+        "status": "UPLOADED",
+        "uploadTimestamp": "2022-11-27T00:21:32.369Z"
+      },
+      "accProfileUploaded": true
+    },
+    {
+      "fleetId": "qatest001",
+      "driverId": "vikramqa",
+      "driverName": "vikramqa",
+      "tripId": "trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L",
+      "eventType": "Custom-Triggered",
+      "timestamp": "2022-11-27T05:47:58.251Z",
+      "timestampUTC": "2022-11-27T00:17:58.251Z",
+      "longitude": 77.48198491,
+      "latitude": 12.91211167,
+      "bearing": 186.9,
+      "speed": 8.17,
+      "accuracy": 5.36,
+      "eventIndex": 15,
+      "timeZoneId": "Asia/Kolkata",
+      "mediaFiles": [
+        {
+          "mediaFileIndex": 0,
+          "mediaFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-27/eventImage_external_capture_trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L_4_1669508277883.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=5570ac23cba75aa7005794cc254a099e131db91285ee28502bb5227dfac78d32&X-Amz-SignedHeaders=host",
+          "mediaType": "IMAGE",
+          "source": "PIP_ROAD_MAJOR",
+          "imageDetails": {
+            "imageWidth": 1280,
+            "imageHeight": 720,
+            "includesPII": true,
+            "imageQuality": 10,
+            "imageType": "pictureInPicture",
+            "imagePiPType": "road"
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2022-11-27T00:18:11.081Z"
+          }
+        }
+      ],
+      "device": {
+        "deviceId": "353436105011125"
+      },
+      "asset": {
+        "assetId": "353436105011125"
+      },
+      "eventVideoFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-27/eventImage_external_capture_trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L_4_1669508277883.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=5570ac23cba75aa7005794cc254a099e131db91285ee28502bb5227dfac78d32&X-Amz-SignedHeaders=host",
+      "imageDetails": {
+        "imageWidth": 1280,
+        "imageHeight": 720,
+        "includesPII": true,
+        "imageQuality": 10,
+        "imageType": "pictureInPicture",
+        "imagePiPType": "road"
+      },
+      "eventVideoFilenameUploadStatus": {
+        "status": "UPLOADED",
+        "uploadTimestamp": "2022-11-27T00:18:11.081Z"
+      },
+      "accProfileUploaded": false
+    },
+    {
+      "fleetId": "qatest001",
+      "driverId": "vikramqa",
+      "driverName": "vikramqa",
+      "tripId": "trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L",
+      "eventType": "Custom-Triggered",
+      "timestamp": "2022-11-27T05:48:04.566Z",
+      "timestampUTC": "2022-11-27T00:18:04.566Z",
+      "longitude": 77.48186701,
+      "latitude": 12.91171111,
+      "bearing": 202.1,
+      "speed": 7.4,
+      "accuracy": 6.432,
+      "eventIndex": 16,
+      "timeZoneId": "Asia/Kolkata",
+      "mediaFiles": [
+        {
+          "mediaFileIndex": 0,
+          "mediaFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-27/eventVideo_external_capture_dvr_trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L_5_2022_11_27_00_18_04_498_EoCIfzGeIfprimary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=02a2e30bbb0e8ed14c2ec9a07947079ab043d60247e5c8edced7552eeb2ebc20&X-Amz-SignedHeaders=host",
+          "mediaType": "VIDEO",
+          "source": "SIDE_BY_SIDE",
+          "videoDetails": {
+            "videoWidth": 640,
+            "videoHeight": 360,
+            "videoBitrate": 1000000,
+            "videoQuality": 10,
+            "videoType": "sideBySide",
+            "videoPiPType": "road",
+            "codec_type": "h264",
+            "audioEnabled": false
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2022-11-27T00:21:41.173Z"
+          }
+        }
+      ],
+      "device": {
+        "deviceId": "353436105011125"
+      },
+      "asset": {
+        "assetId": "353436105011125"
+      },
+      "eventVideoFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-27/eventVideo_external_capture_dvr_trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L_5_2022_11_27_00_18_04_498_EoCIfzGeIfprimary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=02a2e30bbb0e8ed14c2ec9a07947079ab043d60247e5c8edced7552eeb2ebc20&X-Amz-SignedHeaders=host",
+      "videoDetails": {
+        "videoWidth": 640,
+        "videoHeight": 360,
+        "videoBitrate": 1000000,
+        "videoQuality": 10,
+        "videoType": "sideBySide",
+        "videoPiPType": "road",
+        "codec_type": "h264",
+        "audioEnabled": false
+      },
+      "eventVideoFilenameUploadStatus": {
+        "status": "UPLOADED",
+        "uploadTimestamp": "2022-11-27T00:21:41.173Z"
+      },
+      "accProfileUploaded": true
+    },
+    {
+      "fleetId": "qatest001",
+      "driverId": "vikramqa",
+      "driverName": "vikramqa",
+      "tripId": "trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L",
+      "eventType": "Custom-Triggered",
+      "timestamp": "2022-11-27T05:48:04.859Z",
+      "timestampUTC": "2022-11-27T00:18:04.859Z",
+      "longitude": 77.48183034,
+      "latitude": 12.91165401,
+      "bearing": 204.7,
+      "speed": 8.02,
+      "accuracy": 5.36,
+      "eventIndex": 17,
+      "timeZoneId": "Asia/Kolkata",
+      "mediaFiles": [
+        {
+          "mediaFileIndex": 0,
+          "mediaFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-27/eventImage_external_capture_trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L_5_1669508284624.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=7e846302b629f501da801d3cfcbf0441cd386b211f87b77bbfaf1f4320541668&X-Amz-SignedHeaders=host",
+          "mediaType": "IMAGE",
+          "source": "PIP_ROAD_MAJOR",
+          "imageDetails": {
+            "imageWidth": 1280,
+            "imageHeight": 720,
+            "includesPII": true,
+            "imageQuality": 10,
+            "imageType": "pictureInPicture",
+            "imagePiPType": "road"
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2022-11-27T00:18:14.366Z"
+          }
+        }
+      ],
+      "device": {
+        "deviceId": "353436105011125"
+      },
+      "asset": {
+        "assetId": "353436105011125"
+      },
+      "eventVideoFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-27/eventImage_external_capture_trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L_5_1669508284624.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=7e846302b629f501da801d3cfcbf0441cd386b211f87b77bbfaf1f4320541668&X-Amz-SignedHeaders=host",
+      "imageDetails": {
+        "imageWidth": 1280,
+        "imageHeight": 720,
+        "includesPII": true,
+        "imageQuality": 10,
+        "imageType": "pictureInPicture",
+        "imagePiPType": "road"
+      },
+      "eventVideoFilenameUploadStatus": {
+        "status": "UPLOADED",
+        "uploadTimestamp": "2022-11-27T00:18:14.366Z"
+      },
+      "accProfileUploaded": false
+    },
+    {
+      "fleetId": "qatest001",
+      "driverId": "vikramqa",
+      "driverName": "vikramqa",
+      "tripId": "trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L",
+      "eventType": "Custom-Triggered",
+      "timestamp": "2022-11-27T05:52:12.448Z",
+      "timestampUTC": "2022-11-27T00:22:12.448Z",
+      "longitude": 77.45111823,
+      "latitude": 12.88961942,
+      "bearing": 220.4,
+      "speed": 27.57,
+      "accuracy": 6.432,
+      "eventIndex": 22,
+      "timeZoneId": "Asia/Kolkata",
+      "mediaFiles": [
+        {
+          "mediaFileIndex": 0,
+          "mediaFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-27/eventVideo_external_capture_dvr_trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L_7_2022_11_27_00_22_12_361_4OkA0VP9coprimary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=4fc35bff878182f844d25b817035d4a73f202e365bcc206c9c22d18b135296f1&X-Amz-SignedHeaders=host",
+          "mediaType": "VIDEO",
+          "source": "SIDE_BY_SIDE",
+          "videoDetails": {
+            "videoWidth": 640,
+            "videoHeight": 360,
+            "videoBitrate": 1000000,
+            "videoQuality": 10,
+            "videoType": "sideBySide",
+            "videoPiPType": "road",
+            "codec_type": "h264",
+            "audioEnabled": false
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2022-11-27T00:25:11.737Z"
+          }
+        }
+      ],
+      "device": {
+        "deviceId": "353436105011125"
+      },
+      "asset": {
+        "assetId": "353436105011125"
+      },
+      "eventVideoFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-27/eventVideo_external_capture_dvr_trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L_7_2022_11_27_00_22_12_361_4OkA0VP9coprimary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=4fc35bff878182f844d25b817035d4a73f202e365bcc206c9c22d18b135296f1&X-Amz-SignedHeaders=host",
+      "videoDetails": {
+        "videoWidth": 640,
+        "videoHeight": 360,
+        "videoBitrate": 1000000,
+        "videoQuality": 10,
+        "videoType": "sideBySide",
+        "videoPiPType": "road",
+        "codec_type": "h264",
+        "audioEnabled": false
+      },
+      "eventVideoFilenameUploadStatus": {
+        "status": "UPLOADED",
+        "uploadTimestamp": "2022-11-27T00:25:11.737Z"
+      },
+      "accProfileUploaded": true
+    },
+    {
+      "fleetId": "qatest001",
+      "driverId": "vikramqa",
+      "driverName": "vikramqa",
+      "tripId": "trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L",
+      "eventType": "Custom-Triggered",
+      "timestamp": "2022-11-27T05:52:12.912Z",
+      "timestampUTC": "2022-11-27T00:22:12.912Z",
+      "longitude": 77.45111823,
+      "latitude": 12.88961942,
+      "bearing": 220.4,
+      "speed": 27.57,
+      "accuracy": 6.432,
+      "eventIndex": 23,
+      "timeZoneId": "Asia/Kolkata",
+      "mediaFiles": [
+        {
+          "mediaFileIndex": 0,
+          "mediaFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-27/eventImage_external_capture_trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L_9_1669508532492.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=93364f243f73b751bdbd734504aac0d4eb148e857e1d1f261b0deb862b2b4167&X-Amz-SignedHeaders=host",
+          "mediaType": "IMAGE",
+          "source": "PIP_ROAD_MAJOR",
+          "imageDetails": {
+            "imageWidth": 1280,
+            "imageHeight": 720,
+            "includesPII": true,
+            "imageQuality": 10,
+            "imageType": "pictureInPicture",
+            "imagePiPType": "road"
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2022-11-27T00:22:34.392Z"
+          }
+        }
+      ],
+      "device": {
+        "deviceId": "353436105011125"
+      },
+      "asset": {
+        "assetId": "353436105011125"
+      },
+      "eventVideoFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-27/eventImage_external_capture_trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L_9_1669508532492.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=93364f243f73b751bdbd734504aac0d4eb148e857e1d1f261b0deb862b2b4167&X-Amz-SignedHeaders=host",
+      "imageDetails": {
+        "imageWidth": 1280,
+        "imageHeight": 720,
+        "includesPII": true,
+        "imageQuality": 10,
+        "imageType": "pictureInPicture",
+        "imagePiPType": "road"
+      },
+      "eventVideoFilenameUploadStatus": {
+        "status": "UPLOADED",
+        "uploadTimestamp": "2022-11-27T00:22:34.392Z"
+      },
+      "accProfileUploaded": false
+    },
+    {
+      "fleetId": "qatest001",
+      "driverId": "vikramqa",
+      "driverName": "vikramqa",
+      "tripId": "trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L",
+      "eventType": "Custom-Triggered",
+      "timestamp": "2022-11-27T05:52:16.936Z",
+      "timestampUTC": "2022-11-27T00:22:16.936Z",
+      "longitude": 77.45028925,
+      "latitude": 12.88869396,
+      "bearing": 220.9,
+      "speed": 27.26,
+      "accuracy": 6.432,
+      "eventIndex": 24,
+      "timeZoneId": "Asia/Kolkata",
+      "mediaFiles": [
+        {
+          "mediaFileIndex": 0,
+          "mediaFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-27/eventVideo_external_capture_dvr_trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L_8_2022_11_27_00_22_16_880_DIULDfKj2mprimary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=49b85b43753aca20d54951b7604f78ca74fc4dc3846df3aac96370fe5424219c&X-Amz-SignedHeaders=host",
+          "mediaType": "VIDEO",
+          "source": "SIDE_BY_SIDE",
+          "videoDetails": {
+            "videoWidth": 640,
+            "videoHeight": 360,
+            "videoBitrate": 1000000,
+            "videoQuality": 10,
+            "videoType": "sideBySide",
+            "videoPiPType": "road",
+            "codec_type": "h264",
+            "audioEnabled": false
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2022-11-27T00:26:00.172Z"
+          }
+        }
+      ],
+      "device": {
+        "deviceId": "353436105011125"
+      },
+      "asset": {
+        "assetId": "353436105011125"
+      },
+      "eventVideoFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-27/eventVideo_external_capture_dvr_trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L_8_2022_11_27_00_22_16_880_DIULDfKj2mprimary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=49b85b43753aca20d54951b7604f78ca74fc4dc3846df3aac96370fe5424219c&X-Amz-SignedHeaders=host",
+      "videoDetails": {
+        "videoWidth": 640,
+        "videoHeight": 360,
+        "videoBitrate": 1000000,
+        "videoQuality": 10,
+        "videoType": "sideBySide",
+        "videoPiPType": "road",
+        "codec_type": "h264",
+        "audioEnabled": false
+      },
+      "eventVideoFilenameUploadStatus": {
+        "status": "UPLOADED",
+        "uploadTimestamp": "2022-11-27T00:26:00.172Z"
+      },
+      "accProfileUploaded": true
+    },
+    {
+      "fleetId": "qatest001",
+      "driverId": "vikramqa",
+      "driverName": "vikramqa",
+      "tripId": "trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L",
+      "eventType": "Custom-Triggered",
+      "timestamp": "2022-11-27T05:52:17.251Z",
+      "timestampUTC": "2022-11-27T00:22:17.251Z",
+      "longitude": 77.45028925,
+      "latitude": 12.88869396,
+      "bearing": 220.9,
+      "speed": 27.26,
+      "accuracy": 6.432,
+      "eventIndex": 25,
+      "timeZoneId": "Asia/Kolkata",
+      "mediaFiles": [
+        {
+          "mediaFileIndex": 0,
+          "mediaFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-27/eventImage_external_capture_trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L_10_1669508536982.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=674c58154a67ed5cfc41b2d8f9e183ff7fb4043aacdb8eb8e1c586395bb99e5b&X-Amz-SignedHeaders=host",
+          "mediaType": "IMAGE",
+          "source": "PIP_ROAD_MAJOR",
+          "imageDetails": {
+            "imageWidth": 1280,
+            "imageHeight": 720,
+            "includesPII": true,
+            "imageQuality": 10,
+            "imageType": "pictureInPicture",
+            "imagePiPType": "road"
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2022-11-27T00:22:36.271Z"
+          }
+        }
+      ],
+      "device": {
+        "deviceId": "353436105011125"
+      },
+      "asset": {
+        "assetId": "353436105011125"
+      },
+      "eventVideoFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-27/eventImage_external_capture_trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L_10_1669508536982.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=674c58154a67ed5cfc41b2d8f9e183ff7fb4043aacdb8eb8e1c586395bb99e5b&X-Amz-SignedHeaders=host",
+      "imageDetails": {
+        "imageWidth": 1280,
+        "imageHeight": 720,
+        "includesPII": true,
+        "imageQuality": 10,
+        "imageType": "pictureInPicture",
+        "imagePiPType": "road"
+      },
+      "eventVideoFilenameUploadStatus": {
+        "status": "UPLOADED",
+        "uploadTimestamp": "2022-11-27T00:22:36.271Z"
+      },
+      "accProfileUploaded": false
+    },
+    {
+      "fleetId": "qatest001",
+      "driverId": "vikramqa",
+      "driverName": "vikramqa",
+      "tripId": "trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L",
+      "eventType": "Custom-Triggered",
+      "timestamp": "2022-11-27T05:52:19.317Z",
+      "timestampUTC": "2022-11-27T00:22:19.317Z",
+      "longitude": 77.44996946,
+      "latitude": 12.8883176,
+      "bearing": 220,
+      "speed": 27.26,
+      "accuracy": 7.504,
+      "eventIndex": 26,
+      "timeZoneId": "Asia/Kolkata",
+      "mediaFiles": [
+        {
+          "mediaFileIndex": 0,
+          "mediaFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-27/eventVideo_external_capture_dvr_trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L_9_2022_11_27_00_22_19_190_RLPk4nCCAJprimary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=093ec5febff586d17184ecae6260d2c0de7e77f7d4f23e9664f0699c340e51e8&X-Amz-SignedHeaders=host",
+          "mediaType": "VIDEO",
+          "source": "SIDE_BY_SIDE",
+          "videoDetails": {
+            "videoWidth": 640,
+            "videoHeight": 360,
+            "videoBitrate": 1000000,
+            "videoQuality": 10,
+            "videoType": "sideBySide",
+            "videoPiPType": "road",
+            "codec_type": "h264",
+            "audioEnabled": false
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2022-11-27T00:26:09.674Z"
+          }
+        }
+      ],
+      "device": {
+        "deviceId": "353436105011125"
+      },
+      "asset": {
+        "assetId": "353436105011125"
+      },
+      "eventVideoFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-27/eventVideo_external_capture_dvr_trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L_9_2022_11_27_00_22_19_190_RLPk4nCCAJprimary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=093ec5febff586d17184ecae6260d2c0de7e77f7d4f23e9664f0699c340e51e8&X-Amz-SignedHeaders=host",
+      "videoDetails": {
+        "videoWidth": 640,
+        "videoHeight": 360,
+        "videoBitrate": 1000000,
+        "videoQuality": 10,
+        "videoType": "sideBySide",
+        "videoPiPType": "road",
+        "codec_type": "h264",
+        "audioEnabled": false
+      },
+      "eventVideoFilenameUploadStatus": {
+        "status": "UPLOADED",
+        "uploadTimestamp": "2022-11-27T00:26:09.674Z"
+      },
+      "accProfileUploaded": true
+    },
+    {
+      "fleetId": "qatest001",
+      "driverId": "vikramqa",
+      "driverName": "vikramqa",
+      "tripId": "trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L",
+      "eventType": "Custom-Triggered",
+      "timestamp": "2022-11-27T05:52:19.656Z",
+      "timestampUTC": "2022-11-27T00:22:19.656Z",
+      "longitude": 77.44996946,
+      "latitude": 12.8883176,
+      "bearing": 220,
+      "speed": 27.26,
+      "accuracy": 7.504,
+      "eventIndex": 27,
+      "timeZoneId": "Asia/Kolkata",
+      "mediaFiles": [
+        {
+          "mediaFileIndex": 0,
+          "mediaFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-27/eventImage_external_capture_trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L_11_1669508539382.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=53b1a4b2586e28d4e272319fde087e71a168a3119bb73a7b69d2c33c207e428f&X-Amz-SignedHeaders=host",
+          "mediaType": "IMAGE",
+          "source": "PIP_ROAD_MAJOR",
+          "imageDetails": {
+            "imageWidth": 1280,
+            "imageHeight": 720,
+            "includesPII": true,
+            "imageQuality": 10,
+            "imageType": "pictureInPicture",
+            "imagePiPType": "road"
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2022-11-27T00:22:37.189Z"
+          }
+        }
+      ],
+      "device": {
+        "deviceId": "353436105011125"
+      },
+      "asset": {
+        "assetId": "353436105011125"
+      },
+      "eventVideoFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-27/eventImage_external_capture_trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L_11_1669508539382.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=53b1a4b2586e28d4e272319fde087e71a168a3119bb73a7b69d2c33c207e428f&X-Amz-SignedHeaders=host",
+      "imageDetails": {
+        "imageWidth": 1280,
+        "imageHeight": 720,
+        "includesPII": true,
+        "imageQuality": 10,
+        "imageType": "pictureInPicture",
+        "imagePiPType": "road"
+      },
+      "eventVideoFilenameUploadStatus": {
+        "status": "UPLOADED",
+        "uploadTimestamp": "2022-11-27T00:22:37.189Z"
+      },
+      "accProfileUploaded": false
+    },
+    {
+      "fleetId": "qatest001",
+      "driverId": "vikramqa",
+      "driverName": "vikramqa",
+      "tripId": "trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L",
+      "eventType": "Custom-Triggered",
+      "timestamp": "2022-11-27T05:52:41.769Z",
+      "timestampUTC": "2022-11-27T00:22:41.769Z",
+      "longitude": 77.44568447,
+      "latitude": 12.88489618,
+      "bearing": 236.3,
+      "speed": 25.77,
+      "accuracy": 8.576,
+      "eventIndex": 28,
+      "timeZoneId": "Asia/Kolkata",
+      "mediaFiles": [
+        {
+          "mediaFileIndex": 0,
+          "mediaFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-27/eventVideo_external_capture_dvr_trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L_10_2022_11_27_00_22_41_702_uAneBkUA0Dprimary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=2a17c34cdf09794a7c7a35186d415bbe83e2d784038686d227c978f1de9d0449&X-Amz-SignedHeaders=host",
+          "mediaType": "VIDEO",
+          "source": "SIDE_BY_SIDE",
+          "videoDetails": {
+            "videoWidth": 640,
+            "videoHeight": 360,
+            "videoBitrate": 1000000,
+            "videoQuality": 10,
+            "videoType": "sideBySide",
+            "videoPiPType": "road",
+            "codec_type": "h264",
+            "audioEnabled": false
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2022-11-27T00:24:54.728Z"
+          }
+        }
+      ],
+      "device": {
+        "deviceId": "353436105011125"
+      },
+      "asset": {
+        "assetId": "353436105011125"
+      },
+      "eventVideoFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-27/eventVideo_external_capture_dvr_trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L_10_2022_11_27_00_22_41_702_uAneBkUA0Dprimary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=2a17c34cdf09794a7c7a35186d415bbe83e2d784038686d227c978f1de9d0449&X-Amz-SignedHeaders=host",
+      "videoDetails": {
+        "videoWidth": 640,
+        "videoHeight": 360,
+        "videoBitrate": 1000000,
+        "videoQuality": 10,
+        "videoType": "sideBySide",
+        "videoPiPType": "road",
+        "codec_type": "h264",
+        "audioEnabled": false
+      },
+      "eventVideoFilenameUploadStatus": {
+        "status": "UPLOADED",
+        "uploadTimestamp": "2022-11-27T00:24:54.728Z"
+      },
+      "accProfileUploaded": true
+    },
+    {
+      "fleetId": "qatest001",
+      "driverId": "vikramqa",
+      "driverName": "vikramqa",
+      "tripId": "trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L",
+      "eventType": "Custom-Triggered",
+      "timestamp": "2022-11-27T05:52:42.137Z",
+      "timestampUTC": "2022-11-27T00:22:42.137Z",
+      "longitude": 77.44568447,
+      "latitude": 12.88489618,
+      "bearing": 236.3,
+      "speed": 25.77,
+      "accuracy": 8.576,
+      "eventIndex": 29,
+      "timeZoneId": "Asia/Kolkata",
+      "mediaFiles": [
+        {
+          "mediaFileIndex": 0,
+          "mediaFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-27/eventImage_external_capture_trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L_12_1669508561859.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=c87c2830cd622c35e7ef8f277e4bf87bbc3a3ef8cb55c948eba09c4e10a40ba8&X-Amz-SignedHeaders=host",
+          "mediaType": "IMAGE",
+          "source": "PIP_ROAD_MAJOR",
+          "imageDetails": {
+            "imageWidth": 1280,
+            "imageHeight": 720,
+            "includesPII": true,
+            "imageQuality": 10,
+            "imageType": "pictureInPicture",
+            "imagePiPType": "road"
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2022-11-27T00:22:53.465Z"
+          }
+        }
+      ],
+      "device": {
+        "deviceId": "353436105011125"
+      },
+      "asset": {
+        "assetId": "353436105011125"
+      },
+      "eventVideoFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-27/eventImage_external_capture_trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L_12_1669508561859.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=c87c2830cd622c35e7ef8f277e4bf87bbc3a3ef8cb55c948eba09c4e10a40ba8&X-Amz-SignedHeaders=host",
+      "imageDetails": {
+        "imageWidth": 1280,
+        "imageHeight": 720,
+        "includesPII": true,
+        "imageQuality": 10,
+        "imageType": "pictureInPicture",
+        "imagePiPType": "road"
+      },
+      "eventVideoFilenameUploadStatus": {
+        "status": "UPLOADED",
+        "uploadTimestamp": "2022-11-27T00:22:53.465Z"
+      },
+      "accProfileUploaded": false
+    },
+    {
+      "fleetId": "qatest001",
+      "driverId": "vikramqa",
+      "driverName": "vikramqa",
+      "tripId": "trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L",
+      "eventType": "Custom-Triggered",
+      "timestamp": "2022-11-27T05:52:52.346Z",
+      "timestampUTC": "2022-11-27T00:22:52.346Z",
+      "longitude": 77.44372272,
+      "latitude": 12.88361951,
+      "bearing": 237,
+      "speed": 25.38,
+      "accuracy": 10.72,
+      "eventIndex": 30,
+      "timeZoneId": "Asia/Kolkata",
+      "mediaFiles": [
+        {
+          "mediaFileIndex": 0,
+          "mediaFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-27/eventVideo_external_capture_dvr_trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L_11_2022_11_27_00_22_52_281_tfLbGVIIdYprimary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=4249542986ca87879e55dde4f970e6977a5fb2fe10f6ad63f690501c1ed0fc15&X-Amz-SignedHeaders=host",
+          "mediaType": "VIDEO",
+          "source": "SIDE_BY_SIDE",
+          "videoDetails": {
+            "videoWidth": 640,
+            "videoHeight": 360,
+            "videoBitrate": 1000000,
+            "videoQuality": 10,
+            "videoType": "sideBySide",
+            "videoPiPType": "road",
+            "codec_type": "h264",
+            "audioEnabled": false
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2022-11-27T00:27:08.463Z"
+          }
+        }
+      ],
+      "device": {
+        "deviceId": "353436105011125"
+      },
+      "asset": {
+        "assetId": "353436105011125"
+      },
+      "eventVideoFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-27/eventVideo_external_capture_dvr_trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L_11_2022_11_27_00_22_52_281_tfLbGVIIdYprimary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=4249542986ca87879e55dde4f970e6977a5fb2fe10f6ad63f690501c1ed0fc15&X-Amz-SignedHeaders=host",
+      "videoDetails": {
+        "videoWidth": 640,
+        "videoHeight": 360,
+        "videoBitrate": 1000000,
+        "videoQuality": 10,
+        "videoType": "sideBySide",
+        "videoPiPType": "road",
+        "codec_type": "h264",
+        "audioEnabled": false
+      },
+      "eventVideoFilenameUploadStatus": {
+        "status": "UPLOADED",
+        "uploadTimestamp": "2022-11-27T00:27:08.463Z"
+      },
+      "accProfileUploaded": true
+    },
+    {
+      "fleetId": "qatest001",
+      "driverId": "vikramqa",
+      "driverName": "vikramqa",
+      "tripId": "trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L",
+      "eventType": "Custom-Triggered",
+      "timestamp": "2022-11-27T05:52:52.667Z",
+      "timestampUTC": "2022-11-27T00:22:52.667Z",
+      "longitude": 77.44372272,
+      "latitude": 12.88361951,
+      "bearing": 237,
+      "speed": 25.38,
+      "accuracy": 10.72,
+      "eventIndex": 31,
+      "timeZoneId": "Asia/Kolkata",
+      "mediaFiles": [
+        {
+          "mediaFileIndex": 0,
+          "mediaFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-27/eventImage_external_capture_trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L_13_1669508572399.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=a0708dc0ae538c76ee86b0243b6d90058a0085f1401cbcc1ec8314514116c549&X-Amz-SignedHeaders=host",
+          "mediaType": "IMAGE",
+          "source": "PIP_ROAD_MAJOR",
+          "imageDetails": {
+            "imageWidth": 1280,
+            "imageHeight": 720,
+            "includesPII": true,
+            "imageQuality": 10,
+            "imageType": "pictureInPicture",
+            "imagePiPType": "road"
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2022-11-27T00:22:56.152Z"
+          }
+        }
+      ],
+      "device": {
+        "deviceId": "353436105011125"
+      },
+      "asset": {
+        "assetId": "353436105011125"
+      },
+      "eventVideoFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-27/eventImage_external_capture_trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L_13_1669508572399.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=a0708dc0ae538c76ee86b0243b6d90058a0085f1401cbcc1ec8314514116c549&X-Amz-SignedHeaders=host",
+      "imageDetails": {
+        "imageWidth": 1280,
+        "imageHeight": 720,
+        "includesPII": true,
+        "imageQuality": 10,
+        "imageType": "pictureInPicture",
+        "imagePiPType": "road"
+      },
+      "eventVideoFilenameUploadStatus": {
+        "status": "UPLOADED",
+        "uploadTimestamp": "2022-11-27T00:22:56.152Z"
+      },
+      "accProfileUploaded": false
+    },
+    {
+      "fleetId": "qatest001",
+      "driverId": "vikramqa",
+      "driverName": "vikramqa",
+      "tripId": "trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L",
+      "eventType": "Custom-Triggered",
+      "timestamp": "2022-11-27T05:52:56.542Z",
+      "timestampUTC": "2022-11-27T00:22:56.542Z",
+      "longitude": 77.44296157,
+      "latitude": 12.88307025,
+      "bearing": 235.1,
+      "speed": 25.53,
+      "accuracy": 17.152,
+      "eventIndex": 32,
+      "timeZoneId": "Asia/Kolkata",
+      "mediaFiles": [
+        {
+          "mediaFileIndex": 0,
+          "mediaFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-27/eventVideo_external_capture_dvr_trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L_12_2022_11_27_00_22_56_438_6AuNxA7y0Sprimary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=5d901ce3b60258d510cd004ff91c709f0edc9f6276f39e843bf4ee2a75fb719f&X-Amz-SignedHeaders=host",
+          "mediaType": "VIDEO",
+          "source": "SIDE_BY_SIDE",
+          "videoDetails": {
+            "videoWidth": 640,
+            "videoHeight": 360,
+            "videoBitrate": 1000000,
+            "videoQuality": 10,
+            "videoType": "sideBySide",
+            "videoPiPType": "road",
+            "codec_type": "h264",
+            "audioEnabled": false
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2022-11-27T00:25:49.613Z"
+          }
+        }
+      ],
+      "device": {
+        "deviceId": "353436105011125"
+      },
+      "asset": {
+        "assetId": "353436105011125"
+      },
+      "eventVideoFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-27/eventVideo_external_capture_dvr_trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L_12_2022_11_27_00_22_56_438_6AuNxA7y0Sprimary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=5d901ce3b60258d510cd004ff91c709f0edc9f6276f39e843bf4ee2a75fb719f&X-Amz-SignedHeaders=host",
+      "videoDetails": {
+        "videoWidth": 640,
+        "videoHeight": 360,
+        "videoBitrate": 1000000,
+        "videoQuality": 10,
+        "videoType": "sideBySide",
+        "videoPiPType": "road",
+        "codec_type": "h264",
+        "audioEnabled": false
+      },
+      "eventVideoFilenameUploadStatus": {
+        "status": "UPLOADED",
+        "uploadTimestamp": "2022-11-27T00:25:49.613Z"
+      },
+      "accProfileUploaded": true
+    },
+    {
+      "fleetId": "qatest001",
+      "driverId": "vikramqa",
+      "driverName": "vikramqa",
+      "tripId": "trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L",
+      "eventType": "Custom-Triggered",
+      "timestamp": "2022-11-27T05:52:56.786Z",
+      "timestampUTC": "2022-11-27T00:22:56.786Z",
+      "longitude": 77.44277723,
+      "latitude": 12.88291876,
+      "bearing": 234.2,
+      "speed": 25.24,
+      "accuracy": 18.224,
+      "eventIndex": 33,
+      "timeZoneId": "Asia/Kolkata",
+      "mediaFiles": [
+        {
+          "mediaFileIndex": 0,
+          "mediaFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-27/eventImage_external_capture_trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L_14_1669508576595.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=1491ed941b9c342674d667997ec4d488ae62d43a9a802d8e6fef34b27a2a894f&X-Amz-SignedHeaders=host",
+          "mediaType": "IMAGE",
+          "source": "PIP_ROAD_MAJOR",
+          "imageDetails": {
+            "imageWidth": 1280,
+            "imageHeight": 720,
+            "includesPII": true,
+            "imageQuality": 10,
+            "imageType": "pictureInPicture",
+            "imagePiPType": "road"
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2022-11-27T00:23:09.642Z"
+          }
+        }
+      ],
+      "device": {
+        "deviceId": "353436105011125"
+      },
+      "asset": {
+        "assetId": "353436105011125"
+      },
+      "eventVideoFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-27/eventImage_external_capture_trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L_14_1669508576595.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=1491ed941b9c342674d667997ec4d488ae62d43a9a802d8e6fef34b27a2a894f&X-Amz-SignedHeaders=host",
+      "imageDetails": {
+        "imageWidth": 1280,
+        "imageHeight": 720,
+        "includesPII": true,
+        "imageQuality": 10,
+        "imageType": "pictureInPicture",
+        "imagePiPType": "road"
+      },
+      "eventVideoFilenameUploadStatus": {
+        "status": "UPLOADED",
+        "uploadTimestamp": "2022-11-27T00:23:09.642Z"
+      },
+      "accProfileUploaded": false
+    },
+    {
+      "fleetId": "qatest001",
+      "driverId": "vikramqa",
+      "driverName": "vikramqa",
+      "tripId": "trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L",
+      "eventType": "Custom-Triggered",
+      "timestamp": "2022-11-27T05:53:02.643Z",
+      "timestampUTC": "2022-11-27T00:23:02.643Z",
+      "longitude": 77.4416212,
+      "latitude": 12.88216708,
+      "bearing": 237.3,
+      "speed": 24.98,
+      "accuracy": 13.936001,
+      "eventIndex": 34,
+      "timeZoneId": "Asia/Kolkata",
+      "mediaFiles": [
+        {
+          "mediaFileIndex": 0,
+          "mediaFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-27/eventVideo_external_capture_dvr_trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L_13_2022_11_27_00_23_02_577_QVXidCIHNUprimary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=31d73a7bec2b825e98e39bc15581e19d913e8f061477f6fb24dda95108c0180e&X-Amz-SignedHeaders=host",
+          "mediaType": "VIDEO",
+          "source": "SIDE_BY_SIDE",
+          "videoDetails": {
+            "videoWidth": 640,
+            "videoHeight": 360,
+            "videoBitrate": 1000000,
+            "videoQuality": 10,
+            "videoType": "sideBySide",
+            "videoPiPType": "road",
+            "codec_type": "h264",
+            "audioEnabled": false
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2022-11-27T00:26:35.239Z"
+          }
+        }
+      ],
+      "device": {
+        "deviceId": "353436105011125"
+      },
+      "asset": {
+        "assetId": "353436105011125"
+      },
+      "eventVideoFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-27/eventVideo_external_capture_dvr_trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L_13_2022_11_27_00_23_02_577_QVXidCIHNUprimary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=31d73a7bec2b825e98e39bc15581e19d913e8f061477f6fb24dda95108c0180e&X-Amz-SignedHeaders=host",
+      "videoDetails": {
+        "videoWidth": 640,
+        "videoHeight": 360,
+        "videoBitrate": 1000000,
+        "videoQuality": 10,
+        "videoType": "sideBySide",
+        "videoPiPType": "road",
+        "codec_type": "h264",
+        "audioEnabled": false
+      },
+      "eventVideoFilenameUploadStatus": {
+        "status": "UPLOADED",
+        "uploadTimestamp": "2022-11-27T00:26:35.239Z"
+      },
+      "accProfileUploaded": true
+    },
+    {
+      "fleetId": "qatest001",
+      "driverId": "vikramqa",
+      "driverName": "vikramqa",
+      "tripId": "trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L",
+      "eventType": "Custom-Triggered",
+      "timestamp": "2022-11-27T05:53:03.038Z",
+      "timestampUTC": "2022-11-27T00:23:03.038Z",
+      "longitude": 77.4416212,
+      "latitude": 12.88216708,
+      "bearing": 237.3,
+      "speed": 24.98,
+      "accuracy": 13.936001,
+      "eventIndex": 35,
+      "timeZoneId": "Asia/Kolkata",
+      "mediaFiles": [
+        {
+          "mediaFileIndex": 0,
+          "mediaFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-27/eventImage_external_capture_trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L_15_1669508582722.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=2f2e67f9ce7dbeb6aa867abbee2e4ecb4e4b613aacbfe278af14f7ab4863b171&X-Amz-SignedHeaders=host",
+          "mediaType": "IMAGE",
+          "source": "PIP_ROAD_MAJOR",
+          "imageDetails": {
+            "imageWidth": 1280,
+            "imageHeight": 720,
+            "includesPII": true,
+            "imageQuality": 10,
+            "imageType": "pictureInPicture",
+            "imagePiPType": "road"
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2022-11-27T00:23:13.056Z"
+          }
+        }
+      ],
+      "device": {
+        "deviceId": "353436105011125"
+      },
+      "asset": {
+        "assetId": "353436105011125"
+      },
+      "eventVideoFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-27/eventImage_external_capture_trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L_15_1669508582722.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=2f2e67f9ce7dbeb6aa867abbee2e4ecb4e4b613aacbfe278af14f7ab4863b171&X-Amz-SignedHeaders=host",
+      "imageDetails": {
+        "imageWidth": 1280,
+        "imageHeight": 720,
+        "includesPII": true,
+        "imageQuality": 10,
+        "imageType": "pictureInPicture",
+        "imagePiPType": "road"
+      },
+      "eventVideoFilenameUploadStatus": {
+        "status": "UPLOADED",
+        "uploadTimestamp": "2022-11-27T00:23:13.056Z"
+      },
+      "accProfileUploaded": false
+    },
+    {
+      "fleetId": "qatest001",
+      "driverId": "vikramqa",
+      "driverName": "vikramqa",
+      "tripId": "trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L",
+      "eventType": "Custom-Triggered",
+      "timestamp": "2022-11-27T05:54:04.884Z",
+      "timestampUTC": "2022-11-27T00:24:04.884Z",
+      "longitude": 77.43057955,
+      "latitude": 12.87317513,
+      "bearing": 204.6,
+      "speed": 25.23,
+      "accuracy": 10.72,
+      "eventIndex": 38,
+      "timeZoneId": "Asia/Kolkata",
+      "mediaFiles": [
+        {
+          "mediaFileIndex": 0,
+          "mediaFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-27/eventVideo_external_capture_dvr_trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L_14_2022_11_27_00_24_04_803_zLgkcpAGBaprimary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=557ba1cb6a854d3437c3e47f3109ddf88032eea304b063926c19995274202bf2&X-Amz-SignedHeaders=host",
+          "mediaType": "VIDEO",
+          "source": "SIDE_BY_SIDE",
+          "videoDetails": {
+            "videoWidth": 640,
+            "videoHeight": 360,
+            "videoBitrate": 1000000,
+            "videoQuality": 10,
+            "videoType": "sideBySide",
+            "videoPiPType": "road",
+            "codec_type": "h264",
+            "audioEnabled": false
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2022-11-27T00:26:46.914Z"
+          }
+        }
+      ],
+      "device": {
+        "deviceId": "353436105011125"
+      },
+      "asset": {
+        "assetId": "353436105011125"
+      },
+      "eventVideoFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-27/eventVideo_external_capture_dvr_trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L_14_2022_11_27_00_24_04_803_zLgkcpAGBaprimary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=557ba1cb6a854d3437c3e47f3109ddf88032eea304b063926c19995274202bf2&X-Amz-SignedHeaders=host",
+      "videoDetails": {
+        "videoWidth": 640,
+        "videoHeight": 360,
+        "videoBitrate": 1000000,
+        "videoQuality": 10,
+        "videoType": "sideBySide",
+        "videoPiPType": "road",
+        "codec_type": "h264",
+        "audioEnabled": false
+      },
+      "eventVideoFilenameUploadStatus": {
+        "status": "UPLOADED",
+        "uploadTimestamp": "2022-11-27T00:26:46.914Z"
+      },
+      "accProfileUploaded": true
+    },
+    {
+      "fleetId": "qatest001",
+      "driverId": "vikramqa",
+      "driverName": "vikramqa",
+      "tripId": "trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L",
+      "eventType": "Custom-Triggered",
+      "timestamp": "2022-11-27T05:54:05.140Z",
+      "timestampUTC": "2022-11-27T00:24:05.140Z",
+      "longitude": 77.43057955,
+      "latitude": 12.87317513,
+      "bearing": 204.6,
+      "speed": 25.23,
+      "accuracy": 10.72,
+      "eventIndex": 39,
+      "timeZoneId": "Asia/Kolkata",
+      "mediaFiles": [
+        {
+          "mediaFileIndex": 0,
+          "mediaFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-27/eventImage_external_capture_trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L_18_1669508644986.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=5239e18d375b39df3164c3656fc256f4050c3f7c9f88f3642c25e3084f5c0c72&X-Amz-SignedHeaders=host",
+          "mediaType": "IMAGE",
+          "source": "PIP_ROAD_MAJOR",
+          "imageDetails": {
+            "imageWidth": 1280,
+            "imageHeight": 720,
+            "includesPII": true,
+            "imageQuality": 10,
+            "imageType": "pictureInPicture",
+            "imagePiPType": "road"
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2022-11-27T00:24:56.431Z"
+          }
+        }
+      ],
+      "device": {
+        "deviceId": "353436105011125"
+      },
+      "asset": {
+        "assetId": "353436105011125"
+      },
+      "eventVideoFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-27/eventImage_external_capture_trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L_18_1669508644986.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=5239e18d375b39df3164c3656fc256f4050c3f7c9f88f3642c25e3084f5c0c72&X-Amz-SignedHeaders=host",
+      "imageDetails": {
+        "imageWidth": 1280,
+        "imageHeight": 720,
+        "includesPII": true,
+        "imageQuality": 10,
+        "imageType": "pictureInPicture",
+        "imagePiPType": "road"
+      },
+      "eventVideoFilenameUploadStatus": {
+        "status": "UPLOADED",
+        "uploadTimestamp": "2022-11-27T00:24:56.431Z"
+      },
+      "accProfileUploaded": false
+    },
+    {
+      "fleetId": "qatest001",
+      "driverId": "vikramqa",
+      "driverName": "vikramqa",
+      "tripId": "trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L",
+      "eventType": "Custom-Triggered",
+      "timestamp": "2022-11-27T05:54:08.212Z",
+      "timestampUTC": "2022-11-27T00:24:08.212Z",
+      "longitude": 77.43029335,
+      "latitude": 12.87255624,
+      "bearing": 204.2,
+      "speed": 24.91,
+      "accuracy": 13.936001,
+      "eventIndex": 40,
+      "timeZoneId": "Asia/Kolkata",
+      "mediaFiles": [
+        {
+          "mediaFileIndex": 0,
+          "mediaFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-27/eventVideo_external_capture_dvr_trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L_15_2022_11_27_00_24_08_011_WT5zXlUjPXprimary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=3d69f9923bca00429e85546dc3840ee674f48f14511d291f7970527686c0d99c&X-Amz-SignedHeaders=host",
+          "mediaType": "VIDEO",
+          "source": "SIDE_BY_SIDE",
+          "videoDetails": {
+            "videoWidth": 640,
+            "videoHeight": 360,
+            "videoBitrate": 1000000,
+            "videoQuality": 10,
+            "videoType": "sideBySide",
+            "videoPiPType": "road",
+            "codec_type": "h264",
+            "audioEnabled": false
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2022-11-27T00:26:53.669Z"
+          }
+        }
+      ],
+      "device": {
+        "deviceId": "353436105011125"
+      },
+      "asset": {
+        "assetId": "353436105011125"
+      },
+      "eventVideoFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-27/eventVideo_external_capture_dvr_trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L_15_2022_11_27_00_24_08_011_WT5zXlUjPXprimary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=3d69f9923bca00429e85546dc3840ee674f48f14511d291f7970527686c0d99c&X-Amz-SignedHeaders=host",
+      "videoDetails": {
+        "videoWidth": 640,
+        "videoHeight": 360,
+        "videoBitrate": 1000000,
+        "videoQuality": 10,
+        "videoType": "sideBySide",
+        "videoPiPType": "road",
+        "codec_type": "h264",
+        "audioEnabled": false
+      },
+      "eventVideoFilenameUploadStatus": {
+        "status": "UPLOADED",
+        "uploadTimestamp": "2022-11-27T00:26:53.669Z"
+      },
+      "accProfileUploaded": true
+    },
+    {
+      "fleetId": "qatest001",
+      "driverId": "vikramqa",
+      "driverName": "vikramqa",
+      "tripId": "trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L",
+      "eventType": "Custom-Triggered",
+      "timestamp": "2022-11-27T05:54:08.504Z",
+      "timestampUTC": "2022-11-27T00:24:08.504Z",
+      "longitude": 77.43029335,
+      "latitude": 12.87255624,
+      "bearing": 204.2,
+      "speed": 24.91,
+      "accuracy": 13.936001,
+      "eventIndex": 41,
+      "timeZoneId": "Asia/Kolkata",
+      "mediaFiles": [
+        {
+          "mediaFileIndex": 0,
+          "mediaFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-27/eventImage_external_capture_trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L_19_1669508648284.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=85aef307fe38cb09fd3ed9a2f9636864a88018fb754dfdf5932ec6acdc72b28e&X-Amz-SignedHeaders=host",
+          "mediaType": "IMAGE",
+          "source": "PIP_ROAD_MAJOR",
+          "imageDetails": {
+            "imageWidth": 1280,
+            "imageHeight": 720,
+            "includesPII": true,
+            "imageQuality": 10,
+            "imageType": "pictureInPicture",
+            "imagePiPType": "road"
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2022-11-27T00:24:57.277Z"
+          }
+        }
+      ],
+      "device": {
+        "deviceId": "353436105011125"
+      },
+      "asset": {
+        "assetId": "353436105011125"
+      },
+      "eventVideoFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-27/eventImage_external_capture_trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L_19_1669508648284.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=85aef307fe38cb09fd3ed9a2f9636864a88018fb754dfdf5932ec6acdc72b28e&X-Amz-SignedHeaders=host",
+      "imageDetails": {
+        "imageWidth": 1280,
+        "imageHeight": 720,
+        "includesPII": true,
+        "imageQuality": 10,
+        "imageType": "pictureInPicture",
+        "imagePiPType": "road"
+      },
+      "eventVideoFilenameUploadStatus": {
+        "status": "UPLOADED",
+        "uploadTimestamp": "2022-11-27T00:24:57.277Z"
+      },
+      "accProfileUploaded": false
+    },
+    {
+      "fleetId": "qatest001",
+      "driverId": "vikramqa",
+      "driverName": "vikramqa",
+      "tripId": "trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L",
+      "eventType": "Custom-Triggered",
+      "timestamp": "2022-11-27T05:54:19.958Z",
+      "timestampUTC": "2022-11-27T00:24:19.958Z",
+      "longitude": 77.42924813,
+      "latitude": 12.87006454,
+      "bearing": 205.4,
+      "speed": 24.66,
+      "accuracy": 10.72,
+      "eventIndex": 42,
+      "timeZoneId": "Asia/Kolkata",
+      "mediaFiles": [
+        {
+          "mediaFileIndex": 0,
+          "mediaFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-27/eventVideo_external_capture_dvr_trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L_16_2022_11_27_00_24_19_875_5q7qY8JHYaprimary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=8b328d169a9603f46e6277a373e3c2f4ccf272c944fb416b6fd0fee13ef06305&X-Amz-SignedHeaders=host",
+          "mediaType": "VIDEO",
+          "source": "SIDE_BY_SIDE",
+          "videoDetails": {
+            "videoWidth": 640,
+            "videoHeight": 360,
+            "videoBitrate": 1000000,
+            "videoQuality": 10,
+            "videoType": "sideBySide",
+            "videoPiPType": "road",
+            "codec_type": "h264",
+            "audioEnabled": false
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2022-11-27T00:29:36.772Z"
+          }
+        }
+      ],
+      "device": {
+        "deviceId": "353436105011125"
+      },
+      "asset": {
+        "assetId": "353436105011125"
+      },
+      "eventVideoFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-27/eventVideo_external_capture_dvr_trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L_16_2022_11_27_00_24_19_875_5q7qY8JHYaprimary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=8b328d169a9603f46e6277a373e3c2f4ccf272c944fb416b6fd0fee13ef06305&X-Amz-SignedHeaders=host",
+      "videoDetails": {
+        "videoWidth": 640,
+        "videoHeight": 360,
+        "videoBitrate": 1000000,
+        "videoQuality": 10,
+        "videoType": "sideBySide",
+        "videoPiPType": "road",
+        "codec_type": "h264",
+        "audioEnabled": false
+      },
+      "eventVideoFilenameUploadStatus": {
+        "status": "UPLOADED",
+        "uploadTimestamp": "2022-11-27T00:29:36.772Z"
+      },
+      "accProfileUploaded": true
+    },
+    {
+      "fleetId": "qatest001",
+      "driverId": "vikramqa",
+      "driverName": "vikramqa",
+      "tripId": "trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L",
+      "eventType": "Custom-Triggered",
+      "timestamp": "2022-11-27T05:54:20.375Z",
+      "timestampUTC": "2022-11-27T00:24:20.375Z",
+      "longitude": 77.42924813,
+      "latitude": 12.87006454,
+      "bearing": 205.4,
+      "speed": 24.66,
+      "accuracy": 10.72,
+      "eventIndex": 43,
+      "timeZoneId": "Asia/Kolkata",
+      "mediaFiles": [
+        {
+          "mediaFileIndex": 0,
+          "mediaFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-27/eventImage_external_capture_trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L_20_1669508660059.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=68eef5149e5e4c1aa8e3ac615b074ae55d341cb369d2817ddb0543bad8bab31d&X-Amz-SignedHeaders=host",
+          "mediaType": "IMAGE",
+          "source": "PIP_ROAD_MAJOR",
+          "imageDetails": {
+            "imageWidth": 1280,
+            "imageHeight": 720,
+            "includesPII": true,
+            "imageQuality": 10,
+            "imageType": "pictureInPicture",
+            "imagePiPType": "road"
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2022-11-27T00:25:50.484Z"
+          }
+        }
+      ],
+      "device": {
+        "deviceId": "353436105011125"
+      },
+      "asset": {
+        "assetId": "353436105011125"
+      },
+      "eventVideoFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-27/eventImage_external_capture_trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L_20_1669508660059.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=68eef5149e5e4c1aa8e3ac615b074ae55d341cb369d2817ddb0543bad8bab31d&X-Amz-SignedHeaders=host",
+      "imageDetails": {
+        "imageWidth": 1280,
+        "imageHeight": 720,
+        "includesPII": true,
+        "imageQuality": 10,
+        "imageType": "pictureInPicture",
+        "imagePiPType": "road"
+      },
+      "eventVideoFilenameUploadStatus": {
+        "status": "UPLOADED",
+        "uploadTimestamp": "2022-11-27T00:25:50.484Z"
+      },
+      "accProfileUploaded": false
+    },
+    {
+      "fleetId": "qatest001",
+      "driverId": "vikramqa",
+      "driverName": "vikramqa",
+      "tripId": "trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L",
+      "eventType": "Custom-Triggered",
+      "timestamp": "2022-11-27T05:55:29.154Z",
+      "timestampUTC": "2022-11-27T00:25:29.154Z",
+      "longitude": 77.42294686,
+      "latitude": 12.8550423,
+      "bearing": 218.7,
+      "speed": 26.42,
+      "accuracy": 11.792,
+      "eventIndex": 44,
+      "timeZoneId": "Asia/Kolkata",
+      "mediaFiles": [
+        {
+          "mediaFileIndex": 0,
+          "mediaFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-27/eventVideo_external_capture_dvr_trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L_17_2022_11_27_00_25_29_092_n3AY8dytlMprimary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=e83eecf2268853d2599a63ac82c684b50e34761242b680195b7ed9c42126a62f&X-Amz-SignedHeaders=host",
+          "mediaType": "VIDEO",
+          "source": "SIDE_BY_SIDE",
+          "videoDetails": {
+            "videoWidth": 640,
+            "videoHeight": 360,
+            "videoBitrate": 1000000,
+            "videoQuality": 10,
+            "videoType": "sideBySide",
+            "videoPiPType": "road",
+            "codec_type": "h264",
+            "audioEnabled": false
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2022-11-27T00:27:48.996Z"
+          }
+        }
+      ],
+      "device": {
+        "deviceId": "353436105011125"
+      },
+      "asset": {
+        "assetId": "353436105011125"
+      },
+      "eventVideoFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-27/eventVideo_external_capture_dvr_trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L_17_2022_11_27_00_25_29_092_n3AY8dytlMprimary.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=e83eecf2268853d2599a63ac82c684b50e34761242b680195b7ed9c42126a62f&X-Amz-SignedHeaders=host",
+      "videoDetails": {
+        "videoWidth": 640,
+        "videoHeight": 360,
+        "videoBitrate": 1000000,
+        "videoQuality": 10,
+        "videoType": "sideBySide",
+        "videoPiPType": "road",
+        "codec_type": "h264",
+        "audioEnabled": false
+      },
+      "eventVideoFilenameUploadStatus": {
+        "status": "UPLOADED",
+        "uploadTimestamp": "2022-11-27T00:27:48.996Z"
+      },
+      "accProfileUploaded": true
+    },
+    {
+      "fleetId": "qatest001",
+      "driverId": "vikramqa",
+      "driverName": "vikramqa",
+      "tripId": "trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L",
+      "eventType": "Custom-Triggered",
+      "timestamp": "2022-11-27T05:55:29.430Z",
+      "timestampUTC": "2022-11-27T00:25:29.430Z",
+      "longitude": 77.42294686,
+      "latitude": 12.8550423,
+      "bearing": 218.7,
+      "speed": 26.42,
+      "accuracy": 11.792,
+      "eventIndex": 45,
+      "timeZoneId": "Asia/Kolkata",
+      "mediaFiles": [
+        {
+          "mediaFileIndex": 0,
+          "mediaFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-27/eventImage_external_capture_trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L_21_1669508729214.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=d3c30c32750d6057c7f69f04bae04fd6e6da1bc588fb030ce6a4dc968cb1ab88&X-Amz-SignedHeaders=host",
+          "mediaType": "IMAGE",
+          "source": "PIP_ROAD_MAJOR",
+          "imageDetails": {
+            "imageWidth": 1280,
+            "imageHeight": 720,
+            "includesPII": true,
+            "imageQuality": 10,
+            "imageType": "pictureInPicture",
+            "imagePiPType": "road"
+          },
+          "uploadStats": {
+            "status": "UPLOADED",
+            "uploadTimestamp": "2022-11-27T00:26:54.490Z"
+          }
+        }
+      ],
+      "device": {
+        "deviceId": "353436105011125"
+      },
+      "asset": {
+        "assetId": "353436105011125"
+      },
+      "eventVideoFile": "https://lightmetricsexpdatabucket.s3.ap-south-1.amazonaws.com/qatest001/vikramqa/2022-11-27/eventImage_external_capture_trip_master_2022_11_27_00_17_02_866_9319C38F62212DA39393BA457EBC6D8CDC5A7D2E_1jg8L_21_1669508729214.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW5MKOAEP4AVWG34U%2F20230421%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T103915Z&X-Amz-Expires=604800&X-Amz-Signature=d3c30c32750d6057c7f69f04bae04fd6e6da1bc588fb030ce6a4dc968cb1ab88&X-Amz-SignedHeaders=host",
+      "imageDetails": {
+        "imageWidth": 1280,
+        "imageHeight": 720,
+        "includesPII": true,
+        "imageQuality": 10,
+        "imageType": "pictureInPicture",
+        "imagePiPType": "road"
+      },
+      "eventVideoFilenameUploadStatus": {
+        "status": "UPLOADED",
+        "uploadTimestamp": "2022-11-27T00:26:54.490Z"
+      },
+      "accProfileUploaded": false
+    }
+  ]
+}
